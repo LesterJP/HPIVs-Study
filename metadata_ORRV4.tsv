@@ -1,0 +1,414 @@
+name	accession	length	type	submission_date	organism	host	strain	segment	geo_loc_name	country	country_code	collection_original	collection_date	note
+MN306032	MN306032	17384	viral cRNA	2022-05-10	Human parainfluenza virus 4b	Homo sapiens	HPIV4b/Seattle/USA/SC0496/2019	NA	USA	USA	USA	2019	2019-01-01	NA
+LC706554	LC706554	17384	viral cRNA	2024-05-11	Human orthorubulavirus 4	Homo sapiens	PIV4b_Fukushima_O896_2019	NA	Japan: Fukushima	Japan	JPN	2019	2019-01-01	NA
+EU627591	EU627591	17361	viral cRNA	2009-07-08	Human parainfluenza virus 4b	NA	SKPIV4	NA	Canada	Canada	CAN	2004	2004-01-01	NA
+LC706557	LC706557	17361	viral cRNA	2022-06-21	Human orthorubulavirus 4	Homo sapiens	PIV4b_Fukushima_OR487_2022	NA	Japan: Fukushima	Japan	JPN	2022	2022-01-01	NA
+LC720882	LC720882	17361	viral cRNA	2023-03-01	Human orthorubulavirus 4	Homo sapiens	PIV4b_Fukushima_O876_2019	NA	Japan: Fukushima	Japan	JPN	2019	2019-01-01	NA
+LC706556	LC706556	17361	viral cRNA	2024-05-11	Human orthorubulavirus 4	Homo sapiens	PIV4b_Fukushima_OR476_2022	NA	Japan: Fukushima	Japan	JPN	2022	2022-01-01	NA
+PP068622	PP068622	17361	viral cRNA	2024-01-19	Human orthorubulavirus 4	Homo sapiens	HPIV4/USA/8R5/2011	NA	USA	USA	USA	2011-12	2011-12-01	NA
+LC706555	LC706555	17359	viral cRNA	2022-06-21	Human orthorubulavirus 4	Homo sapiens	PIV4b_Fukushima_OR473_2022	NA	Japan: Fukushima	Japan	JPN	2022	2022-01-01	NA
+OQ990818	OQ990818	17309	viral cRNA	2024-09-06	Human parainfluenza virus 4b	Homo sapiens	HPIV4b/China_Ningxia/YC17038/2017	NA	China	China	CHN	18-Sep-2017	2017-09-18	NA
+AB543337	AB543337	17304	viral cRNA	2012-05-08	Human parainfluenza virus 4b	NA	68-333	NA	Japan	Japan	JPN	NA	NA	NA
+JQ241176	JQ241176	17304	viral cRNA	2013-06-28	Human parainfluenza virus 4b	Homo sapiens	04-13	NA	NA	NA	NA	2004	2004-01-01	NA
+PP334191	PP334191	17297	viral cRNA	2024-05-07	Human orthorubulavirus 4	Homo sapiens	HPIV4/USA/9S2/2012	NA	USA	USA	USA	2012-08	2012-08-01	metagenomic
+KY674959	KY674959	17287	viral cRNA	2023-12-22	Human parainfluenza virus 4b	Homo sapiens	HPIV4b/Seattle/USA/8R2/2011	NA	USA	USA	USA	2011	2011-01-01	NA
+PP068620	PP068620	17287	viral cRNA	2024-01-19	Human orthorubulavirus 4	Homo sapiens	HPIV4/USA/8O3/2011	NA	USA	USA	USA	2011-10	2011-10-01	NA
+PP068621	PP068621	17287	viral cRNA	2024-01-19	Human orthorubulavirus 4	Homo sapiens	HPIV4/USA/8R2/2011	NA	USA	USA	USA	2011-12	2011-12-01	NA
+PP068623	PP068623	17287	viral cRNA	2024-01-19	Human orthorubulavirus 4	Homo sapiens	HPIV4/USA/11H8/2014	NA	USA	USA	USA	2014-01	2014-01-01	NA
+MN306058	MN306058	17250	viral cRNA	2020-02-21	Human parainfluenza virus 4b	Homo sapiens	HPIV4b/Seattle/USA/SC9597/2019	NA	USA	USA	USA	2019	2019-01-01	NA
+MT118680	MT118680	17243	viral cRNA	2021-02-03	Human parainfluenza virus 4b	Homo sapiens	2019_0337	NA	USA	USA	USA	2019	2019-01-01	NA
+KY629773	KY629773	17219	viral cRNA	2023-12-22	Human parainfluenza virus 4b	Homo sapiens	HPIV4b/Seattle/USA/13J4/2016	NA	USA	USA	USA	2016	2016-01-01	NA
+ON729321	ON729321	17219	viral cRNA	2022-07-20	Human parainfluenza virus 4b	Homo sapiens	SC992	NA	USA	USA	USA	2017	2017-01-01	NA
+ON729323	ON729323	17219	viral cRNA	2022-07-20	Human parainfluenza virus 4b	Homo sapiens	SC1315	NA	USA	USA	USA	2017	2017-01-01	NA
+ON729324	ON729324	17219	viral cRNA	2022-07-20	Human parainfluenza virus 4b	Homo sapiens	SC3768	NA	USA	USA	USA	2017	2017-01-01	NA
+KY986647	KY986647	17216	viral cRNA	2022-05-06	Human parainfluenza virus 4b	Homo sapiens	HPIV4b/Seattle/USA/SC3019/2015	NA	USA	USA	USA	2015	2015-01-01	NA
+KY674953	KY674953	17208	viral cRNA	2024-01-12	Human parainfluenza virus 4b	Homo sapiens	HPIV4b/Seattle/USA/6H2/2010	NA	USA	USA	USA	2010	2010-01-01	NA
+MH828708	MH828708	17208	viral cRNA	2022-04-16	Human parainfluenza virus 4b	Homo sapiens	vzhpiv41	NA	Viet Nam	Viet Nam	VNM	06-Mar-2015	2015-03-06	NA
+KY645962	KY645962	17177	viral cRNA	2023-12-22	Human parainfluenza virus 4b	Homo sapiens	HPIV4b/Seattle/USA/13I4/2016	NA	USA	USA	USA	2016	2016-01-01	NA
+OP615960	OP615960	17170	viral cRNA	2023-04-22	Human orthorubulavirus 4	Homo sapiens	HPIV4a-HNRG	NA	Argentina	Argentina	ARG	Oct-2016	2016-10-01	subtype: A
+KF908238	KF908238	17160	viral cRNA	2015-02-27	Human parainfluenza virus 4b	Homo sapiens	QLD-01	NA	Australia	Australia	AUS	Aug-2008	2008-08-01	genotype: 4b
+LC706549	LC706549	17100	viral cRNA	2022-06-21	Human orthorubulavirus 4	Homo sapiens	PIV4a_Fukushima_O521_2019	NA	Japan: Fukushima	Japan	JPN	2019	2019-01-01	NA
+KF483663	KF483663	17098	viral cRNA	2013-09-05	Human parainfluenza virus 4a	Homo sapiens	HPIV4_DK(459)	NA	Denmark	Denmark	DNK	NA	NA	NA
+KY460518	KY460518	17098	viral cRNA	2017-07-18	Human parainfluenza virus 4a	Homo sapiens	TW-00029-2010	NA	Taiwan	Taiwan	TWN	19-Oct-2010	2010-10-19	NA
+MH828709	MH828709	17098	viral cRNA	2022-04-16	Human parainfluenza virus 4a	Homo sapiens	vzhpiv42	NA	Viet Nam	Viet Nam	VNM	03-Jun-2015	2015-06-03	NA
+LC706548	LC706548	17094	viral cRNA	2022-06-21	Human orthorubulavirus 4	Homo sapiens	PIV4a_Fukushima_O113_2018	NA	Japan: Fukushima	Japan	JPN	2018	2018-01-01	NA
+LC706550	LC706550	17094	viral cRNA	2022-06-21	Human orthorubulavirus 4	Homo sapiens	PIV4a_Fukushima_O660_2019	NA	Japan: Fukushima	Japan	JPN	2019	2019-01-01	NA
+LC706551	LC706551	17094	viral cRNA	2024-05-11	Human orthorubulavirus 4	Homo sapiens	PIV4a_Fukushima_O755_2019	NA	Japan: Fukushima	Japan	JPN	2019	2019-01-01	NA
+LC706552	LC706552	17094	viral cRNA	2024-05-11	Human orthorubulavirus 4	Homo sapiens	PIV4a_Fukushima_H407_2018	NA	Japan: Fukushima	Japan	JPN	2018	2018-01-01	NA
+LC706553	LC706553	17094	viral cRNA	2024-05-11	Human orthorubulavirus 4	Homo sapiens	PIV4a_Fukushima_H725_2019	NA	Japan: Fukushima	Japan	JPN	2019	2019-01-01	NA
+LC817401	LC817401	17094	viral cRNA	2024-05-23	Human parainfluenza virus 4a	Homo sapiens	PIV4a_Fukushima_OH13_2023	NA	Japan: Fukushima	Japan	JPN	2023	2023-01-01	NA
+LC817402	LC817402	17094	viral cRNA	2024-05-23	Human parainfluenza virus 4a	Homo sapiens	PIV4a_Fukushima_OR534_2022	NA	Japan: Fukushima	Japan	JPN	2022	2022-01-01	NA
+LC823196	LC823196	17094	viral cRNA	2024-06-28	Human parainfluenza virus 4a	Homo sapiens	PIV4a_Fukushima_OH53_2023	NA	Japan: Fukushima	Japan	JPN	2023	2023-01-01	NA
+LC823197	LC823197	17094	viral cRNA	2024-06-28	Human parainfluenza virus 4a	Homo sapiens	PIV4a_Fukushima_OH54_2023	NA	Japan: Fukushima	Japan	JPN	2022	2022-01-01	NA
+KF878965	KF878965	17091	viral cRNA	2014-07-16	Human parainfluenza virus 4a	Homo sapiens	4a variant	NA	Australia	Australia	AUS	02-Apr-2008	2008-04-02	type: 4a
+KY460515	KY460515	17091	viral cRNA	2017-07-18	Human parainfluenza virus 4a	Homo sapiens	TW-00007-2010	NA	Taiwan	Taiwan	TWN	17-Aug-2010	2010-08-17	NA
+MH892407	MH892407	17079	viral cRNA	2019-02-05	Human orthorubulavirus 4	Homo sapiens	t146a296_HPIV4	NA	Netherlands	Netherlands	NLD	08-Nov-2013	2013-11-08	LLcmk2 cell culture passage 3
+MN306038	MN306038	17067	viral cRNA	2020-02-21	Human parainfluenza virus 4a	Homo sapiens	HPIV4a/Seattle/USA/SC0751/2019	NA	USA	USA	USA	2019	2019-01-01	NA
+ON778027	ON778027	17067	viral cRNA	2023-02-05	Human parainfluenza virus 4a	Homo sapiens	PIV4a_3	NA	USA	USA	USA	2019-12-03	2019-12-03	NA
+AB543336	AB543336	17052	viral cRNA	2012-05-08	Human parainfluenza virus 4a	NA	M-25	NA	Japan	Japan	JPN	NA	NA	NA
+NC_021928	NC_021928	17052	genomic RNA	2018-08-13	Human parainfluenza virus 4a	NA	M-25	NA	Japan	Japan	JPN	NA	NA	NA
+MH591216	MH591216	17051	genomic RNA	2019-09-09	Human parainfluenza virus 4a	Homo sapiens	MCL-18-H-1140	NA	India: Pune District, Maharashtra State	India	IND	25-May-2018	2018-05-25	NA
+ON778025	ON778025	17050	viral cRNA	2023-02-05	Human parainfluenza virus 4a	Homo sapiens	PIV4a_1	NA	USA	USA	USA	2019-10-28	2019-10-28	NA
+MN306033	MN306033	17049	viral cRNA	2022-05-10	Human parainfluenza virus 4a	Homo sapiens	HPIV4a/Seattle/USA/SC0620/2019	NA	USA	USA	USA	2019	2019-01-01	NA
+ON778026	ON778026	17049	viral cRNA	2023-02-05	Human parainfluenza virus 4a	Homo sapiens	PIV4a_2	NA	USA	USA	USA	2019-11-14	2019-11-14	NA
+MN306027	MN306027	17040	viral cRNA	2022-05-10	Human parainfluenza virus 4a	Homo sapiens	HPIV4a/Seattle/USA/SC0377/2019	NA	USA	USA	USA	2019	2019-01-01	NA
+MN369047	MN369047	17039	viral cRNA	2024-03-14	Human parainfluenza virus 4a	Homo sapiens	HPIV4a/Seattle/USA/SC9717/2018	NA	USA	USA	USA	2018	2018-01-01	NA
+MH892408	MH892408	17031	viral cRNA	2019-02-05	Human orthorubulavirus 4	Homo sapiens	t146a303_HPIV4	NA	Netherlands	Netherlands	NLD	13-Sep-2013	2013-09-13	LLcmk2 cell culture passage 3
+PQ117892	PQ117892	16981	viral cRNA	2024-08-31	Human parainfluenza virus 4a	Homo sapiens	H20-356-1385	NA	USA: Washington	USA	USA	09-Apr-2024	2024-04-09	NA
+ON729322	ON729322	16965	viral cRNA	2022-07-20	Human parainfluenza virus 4a	Homo sapiens	SC1050	NA	USA	USA	USA	2019	2019-01-01	NA
+MT118676	MT118676	16964	viral cRNA	2021-02-03	Human parainfluenza virus 4a	Homo sapiens	2018_9868	NA	USA	USA	USA	2018	2018-01-01	NA
+MW575666	MW575666	16963	viral cRNA	2021-06-29	Human parainfluenza virus 4a	Homo sapiens	BCH4263A/2014	NA	China	China	CHN	2014	2014-01-01	NA
+MT118682	MT118682	16958	viral cRNA	2021-02-03	Human parainfluenza virus 4a	Homo sapiens	2019_0407	NA	USA	USA	USA	2019	2019-01-01	NA
+MN306056	MN306056	16916	viral cRNA	2020-02-21	Human parainfluenza virus 4a	Homo sapiens	HPIV4a/Seattle/USA/SC9537/2019	NA	USA	USA	USA	2019	2019-01-01	NA
+MN369032	MN369032	16913	viral cRNA	2024-03-14	Human parainfluenza virus 4a	Homo sapiens	HPIV4a/Seattle/USA/SC9971/2018	NA	USA	USA	USA	2018	2018-01-01	NA
+MT118674	MT118674	16907	viral cRNA	2021-02-03	Human parainfluenza virus 4a	Homo sapiens	2018_9717	NA	USA	USA	USA	2018	2018-01-01	NA
+MT118684	MT118684	16896	viral cRNA	2021-02-03	Human parainfluenza virus 4a	Homo sapiens	2019_0532	NA	USA	USA	USA	2019	2019-01-01	NA
+MW575665	MW575665	16889	viral cRNA	2021-06-29	Human parainfluenza virus 4a	Homo sapiens	BCH4237A/2014	NA	China	China	CHN	2014	2014-01-01	NA
+PP068624	PP068624	16889	viral cRNA	2024-01-19	Human orthorubulavirus 4	Homo sapiens	HPIV4/USA/12N9/2015	NA	USA	USA	USA	2015-11	2015-11-01	NA
+MT118679	MT118679	16834	viral cRNA	2021-02-03	Human parainfluenza virus 4a	Homo sapiens	2019_0088	NA	USA	USA	USA	2019	2019-01-01	NA
+MW052040	MW052040	16824	viral cRNA	2022-03-06	Human parainfluenza virus 4a	Homo sapiens	2018_9318	NA	USA	USA	USA	2018	2018-01-01	NA
+PP591762	PP591762	16807	viral cRNA	2024-04-16	Human orthorubulavirus 4	Homo sapiens	ASU101487	NA	USA	USA	USA	27-Feb-2023	2023-02-27	metagenomic
+MW052038	MW052038	16720	viral cRNA	2022-03-06	Human parainfluenza virus 4a	Homo sapiens	2018_0042	NA	USA	USA	USA	2018	2018-01-01	NA
+MH006684	MH006684	16707	viral cRNA	2018-05-17	Human parainfluenza virus 4a	Homo sapiens	HPIV4/VietNam/112/2009	NA	Viet Nam	Viet Nam	VNM	28-May-2009	2009-05-28	NA
+PP101996	PP101996	16343	viral cRNA	2024-01-24	Human parainfluenza virus 4a	NA	MBC050	NA	Spain	Spain	ESP	23-Dec-2015	2015-12-23	NA
+MH006682	MH006682	13940	viral cRNA	2018-05-17	Human parainfluenza virus 4a	Homo sapiens	HPIV4/VietNam/045/2009	NA	Viet Nam	Viet Nam	VNM	22-Jul-2009	2009-07-22	NA
+LQ903767	LQ903767	11600	unassigned DNA	2018-10-11	Human orthorubulavirus 4	NA	NA	NA	NA	NA	NA	NA	NA	NA
+PC037850	PC037850	11600	unassigned DNA	2024-07-26	Human orthorubulavirus 4	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MH006681	MH006681	9368	viral cRNA	2018-05-17	Human parainfluenza virus 4a	Homo sapiens	HPIV4/VietNam/044/2009	NA	Viet Nam	Viet Nam	VNM	26-May-2009	2009-05-26	NA
+M34033	M34033	2600	genomic RNA	1993-08-02	Human parainfluenza virus 4a	NA	Toshiba	NA	NA	NA	NA	NA	NA	NA
+AB006958	AB006958	2545	genomic RNA	1997-09-10	Human parainfluenza virus 4b	NA	68-333	NA	NA	NA	NA	NA	NA	NA
+E02727	E02727	2538	unassigned RNA	2005-11-04	Human parainfluenza virus 4a	NA	NA	NA	NA	NA	NA	NA	NA	NA
+D49821	D49821	2505	genomic RNA	1999-02-10	Human parainfluenza virus 4a	NA	M-25	NA	NA	NA	NA	NA	NA	NA
+D49822	D49822	2476	genomic RNA	1999-02-10	Human parainfluenza virus 4b	NA	68-333	NA	NA	NA	NA	NA	NA	NA
+E03809	E03809	2136	unassigned RNA	2005-11-04	Human parainfluenza virus 4a	NA	NA	NA	NA	NA	NA	NA	NA	NA
+M32982	M32982	1885	mRNA	1993-08-02	Human parainfluenza virus 4a	NA	NA	NA	NA	NA	NA	NA	NA	NA
+E03149	E03149	1885	unassigned RNA	2005-11-04	Human parainfluenza virus 4a	NA	NA	NA	NA	NA	NA	NA	NA	NA
+M32983	M32983	1882	mRNA	1993-08-02	Human parainfluenza virus 4b	NA	NA	NA	NA	NA	NA	NA	NA	NA
+AB753462	AB753462	1785	viral cRNA	2013-02-02	Human parainfluenza virus 4a	NA	2132-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753463	AB753463	1785	viral cRNA	2013-02-02	Human parainfluenza virus 4a	NA	2265-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753464	AB753464	1785	viral cRNA	2013-02-02	Human parainfluenza virus 4a	NA	2620-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753465	AB753465	1785	viral cRNA	2013-02-02	Human parainfluenza virus 4a	NA	2679-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753466	AB753466	1785	viral cRNA	2013-02-02	Human parainfluenza virus 4a	NA	2555-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753467	AB753467	1785	viral cRNA	2013-02-02	Human parainfluenza virus 4a	NA	2629-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753480	AB753480	1785	viral cRNA	2012-10-11	Human parainfluenza virus 4a	NA	321-Yamagata-2010	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753481	AB753481	1785	viral cRNA	2012-10-11	Human parainfluenza virus 4a	NA	222-Yamagata-2010	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753482	AB753482	1785	viral cRNA	2012-10-11	Human parainfluenza virus 4a	NA	1461-Yamagata-2010	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753483	AB753483	1785	viral cRNA	2012-10-11	Human parainfluenza virus 4a	NA	2235-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753484	AB753484	1785	viral cRNA	2012-10-11	Human parainfluenza virus 4a	NA	2526-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753485	AB753485	1785	viral cRNA	2012-10-11	Human parainfluenza virus 4a	NA	2582-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753486	AB753486	1785	viral cRNA	2012-10-11	Human parainfluenza virus 4a	NA	2532-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753487	AB753487	1785	viral cRNA	2012-10-11	Human parainfluenza virus 4a	NA	2594-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753468	AB753468	1746	viral cRNA	2013-02-02	Human parainfluenza virus 4b	NA	2238-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753469	AB753469	1746	viral cRNA	2013-02-02	Human parainfluenza virus 4b	NA	2266-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753470	AB753470	1746	viral cRNA	2013-02-02	Human parainfluenza virus 4b	NA	2413-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753471	AB753471	1746	viral cRNA	2013-02-02	Human parainfluenza virus 4b	NA	2378-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753472	AB753472	1746	viral cRNA	2013-02-02	Human parainfluenza virus 4b	NA	2551-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753473	AB753473	1746	viral cRNA	2013-02-02	Human parainfluenza virus 4b	NA	2676-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753474	AB753474	1746	viral cRNA	2013-02-02	Human parainfluenza virus 4b	NA	2628-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753475	AB753475	1746	viral cRNA	2013-02-02	Human parainfluenza virus 4b	NA	2543-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753476	AB753476	1746	viral cRNA	2013-02-02	Human parainfluenza virus 4b	NA	2376-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753477	AB753477	1746	viral cRNA	2013-02-02	Human parainfluenza virus 4b	NA	2269-Yamagata-2011	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+AB753478	AB753478	1746	viral cRNA	2013-02-02	Human parainfluenza virus 4b	NA	149-Yamagata-2012	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+KX912822	KX912822	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U250/12	NA	Malaysia	Malaysia	MYS	04-Apr-2012	2012-04-04	NA
+KX912823	KX912823	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U293/12	NA	Malaysia	Malaysia	MYS	13-Apr-2012	2012-04-13	NA
+KX912824	KX912824	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U430/12	NA	Malaysia	Malaysia	MYS	02-May-2012	2012-05-02	NA
+KX912825	KX912825	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U454/12	NA	Malaysia	Malaysia	MYS	07-May-2012	2012-05-07	NA
+KX912826	KX912826	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U531/12	NA	Malaysia	Malaysia	MYS	21-May-2012	2012-05-21	NA
+KX912828	KX912828	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U598/12	NA	Malaysia	Malaysia	MYS	01-Jun-2012	2012-06-01	NA
+KX912829	KX912829	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U622/12	NA	Malaysia	Malaysia	MYS	06-Jun-2012	2012-06-06	NA
+KX912830	KX912830	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U648/12	NA	Malaysia	Malaysia	MYS	11-Jun-2012	2012-06-11	NA
+KX912831	KX912831	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U659/12	NA	Malaysia	Malaysia	MYS	11-Jun-2012	2012-06-11	NA
+KX912832	KX912832	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U749/12	NA	Malaysia	Malaysia	MYS	27-Jun-2012	2012-06-27	NA
+KX912833	KX912833	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U784/12	NA	Malaysia	Malaysia	MYS	04-Jul-2012	2012-07-04	NA
+KX912834	KX912834	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U856/12	NA	Malaysia	Malaysia	MYS	16-Jul-2012	2012-07-16	NA
+KX912835	KX912835	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U923/12	NA	Malaysia	Malaysia	MYS	25-Jul-2012	2012-07-25	NA
+KX912836	KX912836	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U1014/12	NA	Malaysia	Malaysia	MYS	22-Aug-2012	2012-08-22	NA
+KX912837	KX912837	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U1037/12	NA	Malaysia	Malaysia	MYS	24-Aug-2012	2012-08-24	NA
+KX912838	KX912838	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U1074/12	NA	Malaysia	Malaysia	MYS	29-Aug-2012	2012-08-29	NA
+KX912839	KX912839	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U1117/12	NA	Malaysia	Malaysia	MYS	05-Sep-2012	2012-09-05	NA
+KX912840	KX912840	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U1129/12	NA	Malaysia	Malaysia	MYS	10-Sep-2012	2012-09-10	NA
+KX912841	KX912841	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U1164/12	NA	Malaysia	Malaysia	MYS	14-Sep-2012	2012-09-14	NA
+KX912842	KX912842	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U1174/12	NA	Malaysia	Malaysia	MYS	19-Sep-2012	2012-09-19	NA
+KX912843	KX912843	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U1181/12	NA	Malaysia	Malaysia	MYS	19-Sep-2012	2012-09-19	NA
+KX912844	KX912844	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U1256/12	NA	Malaysia	Malaysia	MYS	05-Oct-2012	2012-10-05	NA
+KX912845	KX912845	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U1276/12	NA	Malaysia	Malaysia	MYS	08-Oct-2012	2012-10-08	NA
+KX912846	KX912846	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U1290/12	NA	Malaysia	Malaysia	MYS	10-Oct-2012	2012-10-10	NA
+KX912847	KX912847	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U1305/12	NA	Malaysia	Malaysia	MYS	15-Oct-2012	2012-10-15	NA
+KX912848	KX912848	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U1321/12	NA	Malaysia	Malaysia	MYS	15-Oct-2012	2012-10-15	NA
+KX912849	KX912849	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U1354/12	NA	Malaysia	Malaysia	MYS	22-Oct-2012	2012-10-22	NA
+KX912850	KX912850	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U1503/12	NA	Malaysia	Malaysia	MYS	19-Nov-2012	2012-11-19	NA
+KX912851	KX912851	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U1524/12	NA	Malaysia	Malaysia	MYS	21-Nov-2012	2012-11-21	NA
+KX912852	KX912852	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U2210/13	NA	Malaysia	Malaysia	MYS	27-Mar-2013	2013-03-27	NA
+KX912853	KX912853	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U2232/13	NA	Malaysia	Malaysia	MYS	01-Apr-2013	2013-04-01	NA
+KX912854	KX912854	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U2403_4/13	NA	Malaysia	Malaysia	MYS	13-May-2013	2013-05-13	NA
+KX912855	KX912855	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U2448/13	NA	Malaysia	Malaysia	MYS	27-May-2013	2013-05-27	NA
+KX912856	KX912856	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U2498/13	NA	Malaysia	Malaysia	MYS	12-Jun-2013	2013-06-12	NA
+KX912857	KX912857	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U2652/13	NA	Malaysia	Malaysia	MYS	02-Aug-2013	2013-08-02	NA
+KX912858	KX912858	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U2899/13	NA	Malaysia	Malaysia	MYS	11-Oct-2013	2013-10-11	NA
+KX912859	KX912859	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U3116/13	NA	Malaysia	Malaysia	MYS	25-Nov-2013	2013-11-25	NA
+KX912860	KX912860	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U3131/13	NA	Malaysia	Malaysia	MYS	27-Nov-2013	2013-11-27	NA
+KX912861	KX912861	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U3252/13	NA	Malaysia	Malaysia	MYS	18-Dec-2013	2013-12-18	NA
+KX912862	KX912862	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U3688/14	NA	Malaysia	Malaysia	MYS	21-Mar-2014	2014-03-21	NA
+KX912863	KX912863	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U3737/14	NA	Malaysia	Malaysia	MYS	04-Apr-2014	2014-04-04	NA
+KX912864	KX912864	1740	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U3827/14	NA	Malaysia	Malaysia	MYS	28-Apr-2014	2014-04-28	NA
+MN488701	MN488701	1740	viral cRNA	2020-10-12	Human orthorubulavirus 4	Homo sapiens sample 4310700657	NA	NA	Netherlands	Netherlands	NLD	05-Nov-2007	2007-11-05	Probe capture/Targeted metagenomics
+MN488702	MN488702	1740	viral cRNA	2020-10-12	Human orthorubulavirus 4	Homo sapiens sample 4311601326	NA	NA	Netherlands	Netherlands	NLD	07-Dec-2016	2016-12-07	Probe capture/Targeted metagenomics
+MW645220	MW645220	1740	viral cRNA	2021-08-24	Human orthorubulavirus 4	Homo sapiens	GER/0087/15-16	NA	Germany	Germany	DEU	2015-10-12	2015-10-12	subtype: 4b
+MW645221	MW645221	1740	viral cRNA	2021-08-24	Human orthorubulavirus 4	Homo sapiens	GER/3711/13-14	NA	Germany	Germany	DEU	2014-06-02	2014-06-02	subtype: 4b
+MW645222	MW645222	1740	viral cRNA	2021-08-24	Human orthorubulavirus 4	Homo sapiens	GER/5207/14-15	NA	Germany	Germany	DEU	2015-07-06	2015-07-06	subtype: 4b
+MW645223	MW645223	1740	viral cRNA	2021-08-24	Human orthorubulavirus 4	Homo sapiens	GER/2104/14-15	NA	Germany	Germany	DEU	2015-01-26	2015-01-26	subtype: 4b
+MW645224	MW645224	1740	viral cRNA	2021-08-24	Human orthorubulavirus 4	Homo sapiens	GER/0147/15-16	NA	Germany	Germany	DEU	2015-10-16	2015-10-16	subtype: 4b
+MW645225	MW645225	1740	viral cRNA	2021-08-24	Human orthorubulavirus 4	Homo sapiens	GER/0348/15-16	NA	Germany	Germany	DEU	2015-11-05	2015-11-05	subtype: 4b
+MW645226	MW645226	1740	viral cRNA	2021-08-24	Human orthorubulavirus 4	Homo sapiens	GER/1192/17-18	NA	Germany	Germany	DEU	2017-12-12	2017-12-12	subtype: 4b
+MW645227	MW645227	1740	viral cRNA	2021-08-24	Human orthorubulavirus 4	Homo sapiens	GER/5826/16-17	NA	Germany	Germany	DEU	2017-09-25	2017-09-25	subtype: 4b
+MW645228	MW645228	1740	viral cRNA	2021-08-24	Human orthorubulavirus 4	Homo sapiens	GER/5848/16-17	NA	Germany	Germany	DEU	2017-09-25	2017-09-25	subtype: 4b
+MW645229	MW645229	1740	viral cRNA	2021-08-24	Human orthorubulavirus 4	Homo sapiens	GER/3482/14-15	NA	Germany	Germany	DEU	2015-02-23	2015-02-23	subtype: 4b
+MT681670	MT681670	1740	viral cRNA	2021-12-01	Human parainfluenza virus 4a	NA	Henan/029/2018	NA	China	China	CHN	11-Jan-2018	2018-01-11	NA
+MT681671	MT681671	1740	viral cRNA	2021-12-01	Human parainfluenza virus 4a	NA	Henan/247/2018	NA	China	China	CHN	05-Jun-2018	2018-06-05	NA
+MT681672	MT681672	1740	viral cRNA	2021-12-01	Human parainfluenza virus 4a	NA	Henan/251/2018	NA	China	China	CHN	12-Jun-2018	2018-06-12	NA
+MT681673	MT681673	1740	viral cRNA	2021-12-01	Human parainfluenza virus 4a	NA	Henan/265/2018	NA	China	China	CHN	30-Jun-2018	2018-06-30	NA
+MT681674	MT681674	1740	viral cRNA	2021-12-01	Human parainfluenza virus 4a	NA	Henan/268/2018	NA	China	China	CHN	30-Jun-2018	2018-06-30	NA
+MT681675	MT681675	1740	viral cRNA	2021-12-01	Human parainfluenza virus 4a	NA	Henan/292/2018	NA	China	China	CHN	11-Aug-2018	2018-08-11	NA
+MT681676	MT681676	1740	viral cRNA	2021-12-01	Human parainfluenza virus 4a	NA	Henan/303/2018	NA	China	China	CHN	15-Sep-2018	2018-09-15	NA
+MT681677	MT681677	1740	viral cRNA	2021-12-01	Human parainfluenza virus 4b	NA	Henan/269/2018	NA	China	China	CHN	03-Jul-2018	2018-07-03	NA
+MT681678	MT681678	1740	viral cRNA	2021-12-01	Human parainfluenza virus 4b	NA	Henan/274/2018	NA	China	China	CHN	05-Jul-2018	2018-07-05	NA
+MN488686	MN488686	1656	viral cRNA	2020-10-12	Human orthorubulavirus 4	Homo sapiens sample 4310700657	NA	NA	Netherlands	Netherlands	NLD	05-Nov-2007	2007-11-05	Probe capture/Targeted metagenomics
+MN488687	MN488687	1656	viral cRNA	2020-10-12	Human orthorubulavirus 4	Homo sapiens sample 4311601326	NA	NA	Netherlands	Netherlands	NLD	07-Dec-2016	2016-12-07	Probe capture/Targeted metagenomics
+AB753479	AB753479	1599	viral cRNA	2013-02-02	Human parainfluenza virus 4b	NA	500-Yamagata-2012	NA	Japan: Yamagata	Japan	JPN	NA	NA	NA
+D10241	D10241	1580	genomic RNA	2007-01-23	Human parainfluenza virus 4a	NA	Toshiba	NA	NA	NA	NA	NA	NA	synonym: Parainfluenza virus type 4A
+D10242	D10242	1580	mRNA	2007-01-23	Human parainfluenza virus 4b	NA	NA	NA	NA	NA	NA	NA	NA	synonym: Parainfluenza virus type 4B
+M55975	M55975	1547	genomic RNA	1993-08-02	Human parainfluenza virus 4a	NA	NA	NA	NA	NA	NA	NA	NA	NA
+M55976	M55976	1547	genomic RNA	1993-08-02	Human parainfluenza virus 4b	NA	NA	NA	NA	NA	NA	NA	NA	NA
+E03807	E03807	1547	unassigned RNA	2005-11-04	Human parainfluenza virus 4b	NA	NA	NA	NA	NA	NA	NA	NA	NA
+E03304	E03304	1501	unassigned RNA	2005-11-04	Human parainfluenza virus 4a	NA	NA	NA	NA	NA	NA	NA	NA	NA
+E03305	E03305	1501	unassigned RNA	2005-11-04	Human parainfluenza virus 4b	NA	NA	NA	NA	NA	NA	NA	NA	NA
+KX912827	KX912827	1115	viral cRNA	2018-10-12	Human orthorubulavirus 4	Homo sapiens	MY-U553/12	NA	Malaysia	Malaysia	MYS	28-May-2012	2012-05-28	NA
+MH006683	MH006683	1023	viral cRNA	2018-05-17	Human parainfluenza virus 4a	Homo sapiens	HPIV4/VietNam/046/2009	NA	Viet Nam	Viet Nam	VNM	08-Dec-2009	2009-12-08	NA
+MZ576402	MZ576402	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_1/Nottingham/2014	NA	United Kingdom	United Kingdom	GBR	2014-11-21	2014-11-21	NA
+MZ576403	MZ576403	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_2/Nottingham/2014	NA	United Kingdom	United Kingdom	GBR	2014-11-21	2014-11-21	NA
+MZ576404	MZ576404	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_3/Nottingham/2014	NA	United Kingdom	United Kingdom	GBR	2014-11-23	2014-11-23	NA
+MZ576405	MZ576405	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_5/Nottingham/2014	NA	United Kingdom	United Kingdom	GBR	2014-11-29	2014-11-29	NA
+MZ576406	MZ576406	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_6/Nottingham/2014	NA	United Kingdom	United Kingdom	GBR	2014-12-02	2014-12-02	NA
+MZ576407	MZ576407	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_7/Nottingham/2014	NA	United Kingdom	United Kingdom	GBR	2014-12-02	2014-12-02	NA
+MZ576408	MZ576408	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_8/Nottingham/2014	NA	United Kingdom	United Kingdom	GBR	2014-12-16	2014-12-16	NA
+MZ576409	MZ576409	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_9/Nottingham/2014	NA	United Kingdom	United Kingdom	GBR	2014-12-17	2014-12-17	NA
+MZ576410	MZ576410	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_10/Nottingham/2014	NA	United Kingdom	United Kingdom	GBR	2014-12-22	2014-12-22	NA
+MZ576411	MZ576411	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_11/Nottingham/2014	NA	United Kingdom	United Kingdom	GBR	2014-12-22	2014-12-22	NA
+MZ576412	MZ576412	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_12/Nottingham/2014	NA	United Kingdom	United Kingdom	GBR	2014-12-27	2014-12-27	NA
+MZ576413	MZ576413	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_13/Nottingham/2014	NA	United Kingdom	United Kingdom	GBR	2014-12-29	2014-12-29	NA
+MZ576414	MZ576414	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_14/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-01-01	2015-01-01	NA
+MZ576415	MZ576415	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_15/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-01-02	2015-01-02	NA
+MZ576416	MZ576416	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_17/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-09-15	2015-09-15	NA
+MZ576417	MZ576417	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_18/Nottingham/2016	NA	United Kingdom	United Kingdom	GBR	2016-01-11	2016-01-11	NA
+MZ576418	MZ576418	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_19/Nottingham/2016	NA	United Kingdom	United Kingdom	GBR	2016-02-11	2016-02-11	NA
+MZ576419	MZ576419	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_20/Nottingham/2016	NA	United Kingdom	United Kingdom	GBR	2016-09-27	2016-09-27	NA
+MZ576420	MZ576420	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_21/Nottingham/2016	NA	United Kingdom	United Kingdom	GBR	2016-10-09	2016-10-09	NA
+MZ576421	MZ576421	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_22/Nottingham/2016	NA	United Kingdom	United Kingdom	GBR	2016-10-18	2016-10-18	NA
+MZ576422	MZ576422	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_23/Nottingham/2016	NA	United Kingdom	United Kingdom	GBR	2016-11-03	2016-11-03	NA
+MZ576423	MZ576423	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_24/Nottingham/2016	NA	United Kingdom	United Kingdom	GBR	2016-11-02	2016-11-02	NA
+MZ576424	MZ576424	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_27/Nottingham/2016	NA	United Kingdom	United Kingdom	GBR	2016-11-21	2016-11-21	NA
+MZ576425	MZ576425	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_28/Nottingham/2016	NA	United Kingdom	United Kingdom	GBR	2016-11-24	2016-11-24	NA
+MZ576426	MZ576426	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_29/Nottingham/2016	NA	United Kingdom	United Kingdom	GBR	2016-12-02	2016-12-02	NA
+MZ576427	MZ576427	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_30/Nottingham/2016	NA	United Kingdom	United Kingdom	GBR	2016-12-24	2016-12-24	NA
+MZ576428	MZ576428	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_31/Nottingham/2016	NA	United Kingdom	United Kingdom	GBR	2016-12-29	2016-12-29	NA
+MZ576429	MZ576429	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_32/Nottingham/2017	NA	United Kingdom	United Kingdom	GBR	2017-02-14	2017-02-14	NA
+MZ576430	MZ576430	791	viral cRNA	2021-12-14	Human orthorubulavirus 4	Homo sapiens	NUH_PF4_33/Nottingham/2017	NA	United Kingdom	United Kingdom	GBR	2017-02-23	2017-02-23	NA
+MN488685	MN488685	716	viral cRNA	2020-10-12	Human orthorubulavirus 4	Homo sapiens sample 4311601262	NA	NA	Netherlands	Netherlands	NLD	01-Dec-2016	2016-12-01	Probe capture/Targeted metagenomics
+OR176993	OR176993	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA179_4a_03_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4A
+OR176994	OR176994	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA542_4a_03_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4A
+OR176995	OR176995	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA879_4a_03_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4A
+OR176996	OR176996	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA371_4a_03_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4A
+OR176997	OR176997	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA822_4a_04_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4A
+OR176998	OR176998	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA465_4a_04_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4A
+OR176999	OR176999	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA075_4a_05_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4A
+OR177000	OR177000	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA635_4a_04_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4A
+OR177001	OR177001	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA060_4a_05_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4A
+OR177002	OR177002	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA023_4a_06_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4A
+OR177003	OR177003	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA466_4a_06_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4A
+OR177004	OR177004	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA975_4a_07_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4A
+OR177005	OR177005	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA362_4a_07_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4A
+OR177006	OR177006	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA586_4a_11_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4A
+OR177007	OR177007	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA577_4a_03_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4A
+OR177008	OR177008	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA161_4a_03_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4A
+OR177009	OR177009	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA237_4a_03_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4A
+OR177010	OR177010	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA436_4a_04_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4A
+OR177011	OR177011	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA742_4a_04_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4A
+OR177012	OR177012	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA669_4a_04_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4A
+OR177013	OR177013	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA034_4a_04_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4A
+OR177014	OR177014	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA631_4a_04_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4A
+OR177015	OR177015	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA342_4a_06_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4A
+OR177016	OR177016	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA996_4a_07_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4A
+OR177017	OR177017	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA959_4a_07_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4A
+OR177018	OR177018	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHC270_4a_11_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4A
+OR177019	OR177019	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHC094_4a_12_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4A
+OR177020	OR177020	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHB274_4a_04_2016	NA	South Africa	South Africa	ZAF	2016	2016-01-01	subtype: 4A
+OR177021	OR177021	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHB705_4a_06_2016	NA	South Africa	South Africa	ZAF	2016	2016-01-01	subtype: 4A
+OR177022	OR177022	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHC292_4a_03_2016	NA	South Africa	South Africa	ZAF	2016	2016-01-01	subtype: 4A
+OR177023	OR177023	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHC916_4a_03_2016	NA	South Africa	South Africa	ZAF	2016	2016-01-01	subtype: 4A
+OR177024	OR177024	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHC695_4a_08_2016	NA	South Africa	South Africa	ZAF	2016	2016-01-01	subtype: 4A
+OR177025	OR177025	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHD210_4a_05_2016	NA	South Africa	South Africa	ZAF	2016	2016-01-01	subtype: 4A
+OR177026	OR177026	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHC587_4a_04_2016	NA	South Africa	South Africa	ZAF	2016	2016-01-01	subtype: 4A
+OR177027	OR177027	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHC470_4a_01_2017	NA	South Africa	South Africa	ZAF	2017	2017-01-01	subtype: 4A
+OR177028	OR177028	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHC499_4a_04_2017	NA	South Africa	South Africa	ZAF	2017	2017-01-01	subtype: 4A
+OR177029	OR177029	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHC624_4a_05_2017	NA	South Africa	South Africa	ZAF	2017	2017-01-01	subtype: 4A
+OR177030	OR177030	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHC058_4a_03_2017	NA	South Africa	South Africa	ZAF	2017	2017-01-01	subtype: 4A
+OR177031	OR177031	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHD750_4a_00_2017	NA	South Africa	South Africa	ZAF	2017	2017-01-01	subtype: 4A
+OR177032	OR177032	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHD034_4a_02_2017	NA	South Africa	South Africa	ZAF	2017	2017-01-01	subtype: 4A
+OR177033	OR177033	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHD821_4a_02_2017	NA	South Africa	South Africa	ZAF	2017	2017-01-01	subtype: 4A
+OR177034	OR177034	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHB760_4a_02_2017	NA	South Africa	South Africa	ZAF	2017	2017-01-01	subtype: 4A
+OR177035	OR177035	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHB065_4a_02_2017	NA	South Africa	South Africa	ZAF	2017	2017-01-01	subtype: 4A
+OR177036	OR177036	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHB796_4a_05_2017	NA	South Africa	South Africa	ZAF	2017	2017-01-01	subtype: 4A
+OR177037	OR177037	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHB228_4a_06_2017	NA	South Africa	South Africa	ZAF	2017	2017-01-01	subtype: 4A
+OR177038	OR177038	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHB420_4a_04_2017	NA	South Africa	South Africa	ZAF	2017	2017-01-01	subtype: 4A
+OR177039	OR177039	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA756_4b_04_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4B
+OR177040	OR177040	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA953_4b_04_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4B
+OR177041	OR177041	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA757_4b_06_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4B
+OR177042	OR177042	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA677_4b_06_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4B
+OR177043	OR177043	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA765_4b_06_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4B
+OR177044	OR177044	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA359B_4b_07_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4B
+OR177045	OR177045	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA741_4b_09_2014	NA	South Africa	South Africa	ZAF	2014	2014-01-01	subtype: 4B
+OR177046	OR177046	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA760_4b_04_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4B
+OR177047	OR177047	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA359A_4b_05_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4B
+OR177048	OR177048	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA526_4b_05_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4B
+OR177049	OR177049	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA530_4b_05_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4B
+OR177050	OR177050	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA133_4b_07_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4B
+OR177051	OR177051	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA095_4b_08_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4B
+OR177052	OR177052	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHA645_4b_09_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4B
+OR177053	OR177053	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHC498_4b_11_2015	NA	South Africa	South Africa	ZAF	2015	2015-01-01	subtype: 4B
+OR177054	OR177054	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHB365_4b_03_2016	NA	South Africa	South Africa	ZAF	2016	2016-01-01	subtype: 4B
+OR177055	OR177055	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHB189_4b_04_2016	NA	South Africa	South Africa	ZAF	2016	2016-01-01	subtype: 4B
+OR177056	OR177056	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHB009_4b_04_2016	NA	South Africa	South Africa	ZAF	2016	2016-01-01	subtype: 4B
+OR177057	OR177057	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHB016_4b_08_2016	NA	South Africa	South Africa	ZAF	2016	2016-01-01	subtype: 4B
+OR177058	OR177058	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHC651_4b_03_2016	NA	South Africa	South Africa	ZAF	2016	2016-01-01	subtype: 4B
+OR177059	OR177059	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHB855_4b_03_2017	NA	South Africa	South Africa	ZAF	2017	2017-01-01	subtype: 4B
+OR177060	OR177060	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHC148_4b_04_2017	NA	South Africa	South Africa	ZAF	2017	2017-01-01	subtype: 4B
+OR177061	OR177061	699	viral cRNA	2023-08-28	Human orthorubulavirus 4	Homo sapiens	GSHC987_4b_07_2017	NA	South Africa	South Africa	ZAF	2017	2017-01-01	subtype: 4B
+JQ905100	JQ905100	633	viral cRNA	2012-06-27	Human orthorubulavirus 4	Homo sapiens	FLI3410	NA	Peru	Peru	PER	Sep-2010	2010-09-01	NA
+JQ905101	JQ905101	633	viral cRNA	2012-06-27	Human orthorubulavirus 4	Homo sapiens	FLI2411	NA	Argentina	Argentina	ARG	Jun-2010	2010-06-01	NA
+JQ905102	JQ905102	633	viral cRNA	2012-06-27	Human orthorubulavirus 4	Homo sapiens	FLI3260	NA	Peru	Peru	PER	Aug-2010	2010-08-01	NA
+JN651406	JN651406	614	genomic RNA	2012-04-02	Human orthorubulavirus 4	Homo sapiens	QPID08-0002	NA	Australia	Australia	AUS	2008	2008-01-01	genotype: 4A
+JQ406193	JQ406193	612	viral cRNA	2012-04-11	Human orthorubulavirus 4	Homo sapiens	QPID08-0012	NA	Australia	Australia	AUS	20-Jul-2007	2007-07-20	NA
+JN651405	JN651405	608	genomic RNA	2012-04-02	Human orthorubulavirus 4	Homo sapiens	QPID08-0001	NA	Australia	Australia	AUS	2008	2008-01-01	genotype: 4A
+JQ406185	JQ406185	594	viral cRNA	2012-04-11	Human orthorubulavirus 4	Homo sapiens	QPID08-0003	NA	Australia	Australia	AUS	07-Dec-2007	2007-12-07	NA
+JQ406186	JQ406186	594	viral cRNA	2012-04-11	Human orthorubulavirus 4	Homo sapiens	QPID08-0004	NA	Australia	Australia	AUS	10-Feb-2007	2007-02-10	NA
+JQ406188	JQ406188	594	viral cRNA	2012-04-11	Human orthorubulavirus 4	Homo sapiens	QPID08-0008	NA	Australia	Australia	AUS	14-Apr-2003	2003-04-14	NA
+JQ406189	JQ406189	594	viral cRNA	2012-04-11	Human orthorubulavirus 4	Homo sapiens	QPID08-0013	NA	Australia	Australia	AUS	07-May-2008	2008-05-07	NA
+JQ406190	JQ406190	594	viral cRNA	2012-04-11	Human orthorubulavirus 4	Homo sapiens	QPID08-0014	NA	Australia	Australia	AUS	05-Mar-1998	1998-03-05	NA
+JQ406192	JQ406192	564	viral cRNA	2012-04-11	Human orthorubulavirus 4	Homo sapiens	QPID08-0011	NA	Australia	Australia	AUS	13-Jan-2007	2007-01-13	NA
+JQ406187	JQ406187	561	viral cRNA	2012-04-11	Human orthorubulavirus 4	Homo sapiens	QPID08-0007	NA	Australia	Australia	AUS	21-Sep-2006	2006-09-21	NA
+JQ406191	JQ406191	533	viral cRNA	2012-04-11	Human orthorubulavirus 4	Homo sapiens	QPID08-0006	NA	Australia	Australia	AUS	08-Sep-2006	2006-09-08	NA
+MT063416	MT063416	530	viral cRNA	2020-04-30	Human orthorubulavirus 4	Homo sapiens	PREDICT_IDAH0296	NA	Indonesia	Indonesia	IDN	2018	2018-01-01	Eijkman Institute for Molecular Biology (EIMB),Primate Research Center of the Institut Pertanian Bogor(Bogor Agricultural University), EcoHealth Alliance
+MT063417	MT063417	530	viral cRNA	2020-04-30	Human orthorubulavirus 4	Homo sapiens	PREDICT_IDAH0297	NA	Indonesia	Indonesia	IDN	2018	2018-01-01	Eijkman Institute for Molecular Biology (EIMB),Primate Research Center of the Institut Pertanian Bogor(Bogor Agricultural University), EcoHealth Alliance
+KJ187005	KJ187005	519	viral cRNA	2014-11-24	Human parainfluenza virus 4a	Homo sapiens	CU53	NA	Thailand	Thailand	THA	07-Jul-2011	2011-07-07	NA
+LC486656	LC486656	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/13-302	NA	Japan:Saitama	Japan	JPN	2013	2013-01-01	NA
+LC486657	LC486657	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/13-415	NA	Japan:Saitama	Japan	JPN	2013	2013-01-01	NA
+LC486658	LC486658	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/14-101	NA	Japan:Saitama	Japan	JPN	2014	2014-01-01	NA
+LC486659	LC486659	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/14-489	NA	Japan:Saitama	Japan	JPN	2014	2014-01-01	NA
+LC486660	LC486660	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/14-631	NA	Japan:Saitama	Japan	JPN	2014	2014-01-01	NA
+LC486661	LC486661	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/15-512	NA	Japan:Saitama	Japan	JPN	2015	2015-01-01	NA
+LC486662	LC486662	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/15-521	NA	Japan:Saitama	Japan	JPN	2015	2015-01-01	NA
+LC486663	LC486663	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/15-754	NA	Japan:Saitama	Japan	JPN	2015	2015-01-01	NA
+LC486664	LC486664	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/15-771	NA	Japan:Saitama	Japan	JPN	2015	2015-01-01	NA
+LC486665	LC486665	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/15-811	NA	Japan:Saitama	Japan	JPN	2015	2015-01-01	NA
+LC486666	LC486666	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/17-468	NA	Japan:Saitama	Japan	JPN	2017	2017-01-01	NA
+LC486667	LC486667	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/17-469	NA	Japan:Saitama	Japan	JPN	2017	2017-01-01	NA
+LC486668	LC486668	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/17-618	NA	Japan:Saitama	Japan	JPN	2017	2017-01-01	NA
+LC486669	LC486669	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/17-677	NA	Japan:Saitama	Japan	JPN	2017	2017-01-01	NA
+LC486670	LC486670	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/18-226	NA	Japan:Saitama	Japan	JPN	2018	2018-01-01	NA
+LC486671	LC486671	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/18-705	NA	Japan:Saitama	Japan	JPN	2018	2018-01-01	NA
+LC486672	LC486672	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/18-876	NA	Japan:Saitama	Japan	JPN	2018	2018-01-01	NA
+LC486673	LC486673	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/18-899	NA	Japan:Saitama	Japan	JPN	2018	2018-01-01	NA
+LC486674	LC486674	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/18-958	NA	Japan:Saitama	Japan	JPN	2018	2018-01-01	NA
+LC486675	LC486675	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/18-1007	NA	Japan:Saitama	Japan	JPN	2018	2018-01-01	NA
+LC486676	LC486676	510	viral cRNA	2020-12-17	Human orthorubulavirus 4	Homo sapiens	HPIV4s/SaitamaC.JPN/18-1014	NA	Japan:Saitama	Japan	JPN	2018	2018-01-01	NA
+EF088282	EF088282	455	mRNA	2016-07-14	Human parainfluenza virus 4a	NA	NA	NA	NA	NA	NA	NA	NA	NA
+KJ187030	KJ187030	441	viral cRNA	2014-11-24	Human parainfluenza virus 4b	Homo sapiens	cb62_1	NA	Thailand	Thailand	THA	12-Aug-2013	2013-08-12	NA
+KJ187020	KJ187020	438	viral cRNA	2014-11-24	Human parainfluenza virus 4a	Homo sapiens	CU439	NA	Thailand	Thailand	THA	03-Sep-2012	2012-09-03	NA
+AY286479	AY286479	376	genomic RNA	2016-07-25	Human parainfluenza virus 4a	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FJ608669	FJ608669	376	viral cRNA	2016-07-24	Human parainfluenza virus 4a	Homo sapiens	1	NA	China: Hong Kong	China	CHN	Apr-2004	2004-04-01	NA
+FJ608670	FJ608670	376	viral cRNA	2016-07-24	Human parainfluenza virus 4a	Homo sapiens	2	NA	China: Hong Kong	China	CHN	Apr-2004	2004-04-01	NA
+FJ608671	FJ608671	376	viral cRNA	2016-07-24	Human parainfluenza virus 4a	Homo sapiens	3	NA	China: Hong Kong	China	CHN	Apr-2004	2004-04-01	NA
+FJ608672	FJ608672	376	viral cRNA	2016-07-24	Human parainfluenza virus 4a	Homo sapiens	4	NA	China: Hong Kong	China	CHN	May-2004	2004-05-01	NA
+FJ608673	FJ608673	376	viral cRNA	2016-07-24	Human parainfluenza virus 4b	Homo sapiens	5	NA	China: Hong Kong	China	CHN	May-2004	2004-05-01	NA
+FJ608674	FJ608674	376	viral cRNA	2016-07-24	Human parainfluenza virus 4a	Homo sapiens	6	NA	China: Hong Kong	China	CHN	Jul-2004	2004-07-01	NA
+FJ608675	FJ608675	376	viral cRNA	2016-07-24	Human parainfluenza virus 4a	Homo sapiens	7	NA	China: Hong Kong	China	CHN	Jul-2004	2004-07-01	NA
+FJ608676	FJ608676	376	viral cRNA	2016-07-24	Human parainfluenza virus 4b	Homo sapiens	8	NA	China: Hong Kong	China	CHN	Jul-2004	2004-07-01	NA
+FJ608677	FJ608677	376	viral cRNA	2016-07-24	Human parainfluenza virus 4b	Homo sapiens	9	NA	China: Hong Kong	China	CHN	Jul-2004	2004-07-01	NA
+FJ608678	FJ608678	376	viral cRNA	2016-07-24	Human parainfluenza virus 4b	Homo sapiens	10	NA	China: Hong Kong	China	CHN	Jul-2004	2004-07-01	NA
+FJ608679	FJ608679	376	viral cRNA	2016-07-24	Human parainfluenza virus 4b	Homo sapiens	11	NA	China: Hong Kong	China	CHN	Jul-2004	2004-07-01	NA
+FJ608680	FJ608680	376	viral cRNA	2016-07-24	Human parainfluenza virus 4a	Homo sapiens	12	NA	China: Hong Kong	China	CHN	Aug-2004	2004-08-01	NA
+FJ608681	FJ608681	376	viral cRNA	2016-07-24	Human parainfluenza virus 4a	Homo sapiens	13	NA	China: Hong Kong	China	CHN	Aug-2004	2004-08-01	NA
+FJ608682	FJ608682	376	viral cRNA	2016-07-24	Human parainfluenza virus 4a	Homo sapiens	14	NA	China: Hong Kong	China	CHN	Aug-2004	2004-08-01	NA
+FJ608683	FJ608683	376	viral cRNA	2016-07-24	Human parainfluenza virus 4b	Homo sapiens	15	NA	China: Hong Kong	China	CHN	Sep-2004	2004-09-01	NA
+FJ608684	FJ608684	376	viral cRNA	2016-07-24	Human parainfluenza virus 4b	Homo sapiens	16	NA	China: Hong Kong	China	CHN	Nov-2004	2004-11-01	NA
+FJ608685	FJ608685	376	viral cRNA	2016-07-24	Human parainfluenza virus 4b	Homo sapiens	17	NA	China: Hong Kong	China	CHN	Nov-2004	2004-11-01	NA
+FJ608686	FJ608686	376	viral cRNA	2016-07-24	Human parainfluenza virus 4b	Homo sapiens	18	NA	China: Hong Kong	China	CHN	Nov-2004	2004-11-01	NA
+FJ608687	FJ608687	376	viral cRNA	2016-07-24	Human parainfluenza virus 4b	Homo sapiens	19	NA	China: Hong Kong	China	CHN	Nov-2004	2004-11-01	NA
+FJ608688	FJ608688	376	viral cRNA	2016-07-24	Human parainfluenza virus 4a	Homo sapiens	20	NA	China: Hong Kong	China	CHN	Nov-2004	2004-11-01	NA
+FJ608689	FJ608689	376	viral cRNA	2016-07-24	Human parainfluenza virus 4a	Homo sapiens	21	NA	China: Hong Kong	China	CHN	Nov-2004	2004-11-01	NA
+FJ608690	FJ608690	376	viral cRNA	2016-07-24	Human parainfluenza virus 4a	Homo sapiens	22	NA	China: Hong Kong	China	CHN	Nov-2004	2004-11-01	NA
+FJ608691	FJ608691	376	viral cRNA	2016-07-24	Human parainfluenza virus 4a	Homo sapiens	23	NA	China: Hong Kong	China	CHN	Nov-2004	2004-11-01	NA
+FJ608692	FJ608692	376	viral cRNA	2016-07-24	Human parainfluenza virus 4a	Homo sapiens	24	NA	China: Hong Kong	China	CHN	Dec-2004	2004-12-01	NA
+FJ608693	FJ608693	376	viral cRNA	2016-07-24	Human parainfluenza virus 4b	Homo sapiens	25	NA	China: Hong Kong	China	CHN	Dec-2004	2004-12-01	NA
+FJ608694	FJ608694	376	viral cRNA	2016-07-24	Human parainfluenza virus 4b	Homo sapiens	26	NA	China: Hong Kong	China	CHN	Jan-2005	2005-01-01	NA
+FJ608695	FJ608695	376	viral cRNA	2016-07-24	Human parainfluenza virus 4b	Homo sapiens	27	NA	China: Hong Kong	China	CHN	Jan-2005	2005-01-01	NA
+FJ608696	FJ608696	376	viral cRNA	2016-07-24	Human parainfluenza virus 4a	Homo sapiens	28	NA	China: Hong Kong	China	CHN	Jan-2005	2005-01-01	NA
+FJ608697	FJ608697	376	viral cRNA	2016-07-24	Human parainfluenza virus 4b	Homo sapiens	29	NA	China: Hong Kong	China	CHN	Jan-2005	2005-01-01	NA
+FJ608698	FJ608698	376	viral cRNA	2016-07-24	Human parainfluenza virus 4a	Homo sapiens	30	NA	China: Hong Kong	China	CHN	Feb-2005	2005-02-01	NA
+FJ608699	FJ608699	376	viral cRNA	2016-07-24	Human parainfluenza virus 4a	Homo sapiens	31	NA	China: Hong Kong	China	CHN	Feb-2005	2005-02-01	NA
+FJ608700	FJ608700	376	viral cRNA	2016-07-24	Human parainfluenza virus 4a	Homo sapiens	32	NA	China: Hong Kong	China	CHN	Mar-2005	2005-03-01	NA
+FJ608701	FJ608701	376	viral cRNA	2016-07-24	Human parainfluenza virus 4b	Homo sapiens	33	NA	China: Hong Kong	China	CHN	Mar-2005	2005-03-01	NA
+FJ608702	FJ608702	376	viral cRNA	2016-07-24	Human parainfluenza virus 4a	Homo sapiens	34	NA	China: Hong Kong	China	CHN	Mar-2005	2005-03-01	NA
+EF088279	EF088279	354	mRNA	2016-07-14	Human parainfluenza virus 4a	NA	NA	NA	NA	NA	NA	NA	NA	NA
+KJ187032	KJ187032	346	viral cRNA	2014-11-24	Human parainfluenza virus 4a	Homo sapiens	cb113	NA	Thailand	Thailand	THA	10-Nov-2013	2013-11-10	NA
+EF088280	EF088280	340	mRNA	2016-07-14	Human parainfluenza virus 4a	NA	NA	NA	NA	NA	NA	NA	NA	NA
+EF088283	EF088283	313	mRNA	2006-11-26	Human parainfluenza virus 4a	NA	NA	NA	NA	NA	NA	NA	NA	NA
+KJ187019	KJ187019	299	viral cRNA	2014-11-24	Human parainfluenza virus 4a	Homo sapiens	CU422	NA	Thailand	Thailand	THA	27-Aug-2012	2012-08-27	NA
+KJ187017	KJ187017	288	viral cRNA	2014-11-24	Human parainfluenza virus 4a	Homo sapiens	CU398	NA	Thailand	Thailand	THA	16-Aug-2012	2012-08-16	NA
+KJ187018	KJ187018	277	viral cRNA	2014-11-24	Human parainfluenza virus 4b	Homo sapiens	CU409	NA	Thailand	Thailand	THA	16-Aug-2012	2012-08-16	NA
+KJ187031	KJ187031	264	viral cRNA	2014-11-24	Human parainfluenza virus 4a	Homo sapiens	cb83	NA	Thailand	Thailand	THA	12-Aug-2013	2013-08-12	NA
+KJ638485	KJ638485	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP9984	NA	USA	USA	USA	2012	2012-01-01	genotype: 4B
+KJ638486	KJ638486	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP8961	NA	USA	USA	USA	2012	2012-01-01	genotype: 4B
+KJ638487	KJ638487	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP8010	NA	USA	USA	USA	2012	2012-01-01	genotype: 4B
+KJ638488	KJ638488	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP7958	NA	USA	USA	USA	2012	2012-01-01	genotype: 4B
+KJ638489	KJ638489	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP7852	NA	USA	USA	USA	2012	2012-01-01	genotype: 4B
+KJ638490	KJ638490	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP7081	NA	USA	USA	USA	2012	2012-01-01	genotype: 4B
+KJ638491	KJ638491	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP7002	NA	USA	USA	USA	2012	2012-01-01	genotype: 4B
+KJ638492	KJ638492	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP5244	NA	USA	USA	USA	2011	2011-01-01	genotype: 4B
+KJ638493	KJ638493	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP6952	NA	USA	USA	USA	2012	2012-01-01	genotype: 4B
+KJ638494	KJ638494	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP5289	NA	USA	USA	USA	2011	2011-01-01	genotype: 4B
+KJ638495	KJ638495	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP6788	NA	USA	USA	USA	2012	2012-01-01	genotype: 4B
+KJ638496	KJ638496	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP5621	NA	USA	USA	USA	2011	2011-01-01	genotype: 4B
+KJ638497	KJ638497	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP6717	NA	USA	USA	USA	2012	2012-01-01	genotype: 4B
+KJ638498	KJ638498	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP5650	NA	USA	USA	USA	2011	2011-01-01	genotype: 4B
+KJ638499	KJ638499	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP10282	NA	USA	USA	USA	2012	2012-01-01	genotype: 4B
+KJ638500	KJ638500	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP5584	NA	USA	USA	USA	2011	2011-01-01	genotype: 4B
+KJ638501	KJ638501	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP5187	NA	USA	USA	USA	2011	2011-01-01	genotype: 4B
+KJ638502	KJ638502	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP6662	NA	USA	USA	USA	2012	2012-01-01	genotype: 4B
+KJ638503	KJ638503	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP4924	NA	USA	USA	USA	2011	2011-01-01	genotype: 4B
+KJ638504	KJ638504	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP11722	NA	USA	USA	USA	2012	2012-01-01	genotype: 4B
+KJ638505	KJ638505	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP10717	NA	USA	USA	USA	2012	2012-01-01	genotype: 4B
+KJ638506	KJ638506	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP6660	NA	USA	USA	USA	2012	2012-01-01	genotype: 4B
+KJ638507	KJ638507	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP6624	NA	USA	USA	USA	2012	2012-01-01	genotype: 4B
+KJ638508	KJ638508	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP6000	NA	USA	USA	USA	2011	2011-01-01	genotype: 4B
+KJ638509	KJ638509	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP4946	NA	USA	USA	USA	2011	2011-01-01	genotype: 4B
+KJ638510	KJ638510	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP6603	NA	USA	USA	USA	2012	2012-01-01	genotype: 4B
+KJ638511	KJ638511	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP10357	NA	USA	USA	USA	2012	2012-01-01	genotype: 4B
+KJ638512	KJ638512	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP6458	NA	USA	USA	USA	2012	2012-01-01	genotype: 4A
+KJ638513	KJ638513	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP6018	NA	USA	USA	USA	2011	2011-01-01	genotype: 4A
+KJ638514	KJ638514	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP5987	NA	USA	USA	USA	2011	2011-01-01	genotype: 4A
+KJ638515	KJ638515	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP5970	NA	USA	USA	USA	2011	2011-01-01	genotype: 4A
+KJ638516	KJ638516	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP5834	NA	USA	USA	USA	2011	2011-01-01	genotype: 4A
+KJ638517	KJ638517	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP5703	NA	USA	USA	USA	2011	2011-01-01	genotype: 4A
+KJ638518	KJ638518	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP5515	NA	USA	USA	USA	2011	2011-01-01	genotype: 4A
+KJ638519	KJ638519	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP5412	NA	USA	USA	USA	2011	2011-01-01	genotype: 4A
+KJ638520	KJ638520	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP6714	NA	USA	USA	USA	2012	2012-01-01	genotype: 4A
+KJ638521	KJ638521	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP7388	NA	USA	USA	USA	2012	2012-01-01	genotype: 4A
+KJ638522	KJ638522	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP6764	NA	USA	USA	USA	2012	2012-01-01	genotype: 4A
+KJ638523	KJ638523	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP5242	NA	USA	USA	USA	2011	2011-01-01	genotype: 4A
+KJ638524	KJ638524	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP6818	NA	USA	USA	USA	2012	2012-01-01	genotype: 4A
+KJ638525	KJ638525	252	viral cRNA	2015-03-31	Human orthorubulavirus 4	Homo sapiens	PHP4844	NA	USA	USA	USA	2011	2011-01-01	genotype: 4A
+KJ187014	KJ187014	249	viral cRNA	2014-11-24	Human parainfluenza virus 4b	Homo sapiens	CU327	NA	Thailand	Thailand	THA	19-Mar-2012	2012-03-19	NA
+KJ187028	KJ187028	240	viral cRNA	2014-11-24	Human parainfluenza virus 4b	Homo sapiens	cb27	NA	Thailand	Thailand	THA	19-Jul-2013	2013-07-19	NA
+KJ187024	KJ187024	223	viral cRNA	2014-11-24	Human parainfluenza virus 4a	Homo sapiens	CU489	NA	Thailand	Thailand	THA	25-Oct-2012	2012-10-25	NA
+EF088281	EF088281	115	mRNA	2016-07-14	Human parainfluenza virus 4a	NA	NA	NA	NA	NA	NA	NA	NA	NA

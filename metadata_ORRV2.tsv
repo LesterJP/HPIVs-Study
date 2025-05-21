@@ -1,0 +1,729 @@
+name	accession	length	type	submission_date	organism	host	strain	segment	geo_loc_name	country	country_code	collection_original	collection_date	note
+OQ990772	OQ990772	15692	viral cRNA	2024-09-06	Human orthorubulavirus 2	Homo sapiens	HPIV2/China_Zhejiang/WZ17441/2019	NA	China	China	CHN	11-Oct-2019	2019-10-11	NA
+MH892405	MH892405	15684	viral cRNA	2019-02-05	Human orthorubulavirus 2	Homo sapiens	t146a292_HPIV2	NA	Netherlands	Netherlands	NLD	15-Dec-2014	2014-12-15	LLcmk2 cell culture passage 3
+OQ990773	OQ990773	15664	viral cRNA	2024-09-06	Human orthorubulavirus 2	Homo sapiens	HPIV2/China_Ningxia/YC17068/2017	NA	China	China	CHN	12-Oct-2017	2017-10-12	NA
+AF533010	AF533010	15654	genomic RNA	2002-12-16	Human orthorubulavirus 2	NA	V94	NA	NA	NA	NA	NA	NA	NA
+AF533011	AF533011	15654	genomic RNA	2002-12-16	Human orthorubulavirus 2	NA	V98	NA	NA	NA	NA	NA	NA	NA
+AF533012	AF533012	15654	genomic RNA	2002-12-16	Human orthorubulavirus 2	NA	GREER	NA	NA	NA	NA	NA	NA	NA
+AB176531	AB176531	15654	genomic RNA	2020-12-19	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115622	GN115622	15654	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584474	FW584474	15654	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+KY986645	KY986645	15654	viral cRNA	2022-05-06	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/SC2761/2015	NA	USA	USA	USA	2015	2015-01-01	NA
+MG836416	MG836416	15654	viral cRNA	2018-11-07	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/47.14(1688)	NA	Croatia	Croatia	HRV	22-Nov-2014	2014-11-22	NA
+MG836417	MG836417	15654	viral cRNA	2018-11-07	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/47.15(1779)	NA	Croatia	Croatia	HRV	20-Nov-2015	2015-11-20	NA
+MG836418	MG836418	15654	viral cRNA	2018-11-07	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/49.15(1849)	NA	Croatia	Croatia	HRV	02-Dec-2015	2015-12-02	NA
+MG836419	MG836419	15654	viral cRNA	2018-11-07	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/49.16(2400)	NA	Croatia	Croatia	HRV	05-Dec-2016	2016-12-05	NA
+MG836420	MG836420	15654	viral cRNA	2018-11-07	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/50.16(2513)	NA	Croatia	Croatia	HRV	14-Dec-2016	2016-12-14	NA
+MG836421	MG836421	15654	viral cRNA	2018-11-07	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/47.11(16475)	NA	Croatia	Croatia	HRV	30-Oct-2011	2011-10-30	NA
+MG836422	MG836422	15654	viral cRNA	2018-11-07	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/49.11(17034)	NA	Croatia	Croatia	HRV	12-Nov-2011	2011-11-12	NA
+MG836423	MG836423	15654	viral cRNA	2018-11-07	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/38.12(2858)	NA	Croatia	Croatia	HRV	03-Sep-2012	2012-09-03	NA
+MG836424	MG836424	15654	viral cRNA	2018-11-07	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/50.12(3263)	NA	Croatia	Croatia	HRV	29-Nov-2012	2012-11-29	NA
+MG836425	MG836425	15654	viral cRNA	2018-11-07	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/42.14(1472)	NA	Croatia	Croatia	HRV	17-Oct-2014	2014-10-17	NA
+MK167022	MK167022	15654	viral cRNA	2020-02-21	Human orthorubulavirus 2	Homo sapiens	HPIV2/Los_Angeles/USA/CHLA40/2016	NA	USA	USA	USA	2016	2016-01-01	NA
+MK167023	MK167023	15654	viral cRNA	2020-02-21	Human orthorubulavirus 2	Homo sapiens	HPIV2/Los_Angeles/USA/CHLA34/2016	NA	USA	USA	USA	2016	2016-01-01	NA
+MK167026	MK167026	15654	viral cRNA	2020-02-21	Human orthorubulavirus 2	Homo sapiens	HPIV2/Los_Angeles/USA/CHLA20/2016	NA	USA	USA	USA	2016	2016-01-01	NA
+MH892406	MH892406	15654	viral cRNA	2019-02-05	Human orthorubulavirus 2	Homo sapiens	t146a293_HPIV2	NA	Netherlands	Netherlands	NLD	02-Apr-2014	2014-04-02	LLcmk2 cell culture passage 3
+MH828710	MH828710	15654	viral cRNA	2022-04-16	Human orthorubulavirus 2	Homo sapiens	vzhpiv21	NA	Viet Nam	Viet Nam	VNM	27-May-2014	2014-05-27	NA
+MH828711	MH828711	15654	viral cRNA	2022-04-16	Human orthorubulavirus 2	Homo sapiens	vzhpiv22	NA	Viet Nam	Viet Nam	VNM	12-May-2014	2014-05-12	NA
+MH828712	MH828712	15654	viral cRNA	2022-04-16	Human orthorubulavirus 2	Homo sapiens	vzhpiv23	NA	Viet Nam	Viet Nam	VNM	25-Sep-2015	2015-09-25	NA
+OQ848525	OQ848525	15654	viral cRNA	2024-03-14	Human orthorubulavirus 2	Homo sapiens	HPIV2/USA/6R8/2010	NA	USA	USA	USA	2010-09	2010-09-01	NA
+OQ990766	OQ990766	15654	viral cRNA	2024-09-06	Human orthorubulavirus 2	Homo sapiens	HPIV2/China_Beijing/BCH20170155/2017	NA	China	China	CHN	28-Feb-2017	2017-02-28	NA
+OQ990768	OQ990768	15654	viral cRNA	2024-09-06	Human orthorubulavirus 2	Homo sapiens	HPIV2/China_Beijing/BCH20170272/2017	NA	China	China	CHN	27-May-2017	2017-05-27	NA
+OQ990769	OQ990769	15654	viral cRNA	2024-09-06	Human orthorubulavirus 2	Homo sapiens	HPIV2/China_Beijing/BCH20170307/2017	NA	China	China	CHN	05-Jul-2017	2017-07-05	NA
+PP068619	PP068619	15654	viral cRNA	2024-01-19	Human orthorubulavirus 2	Homo sapiens	HPIV2/USA/11O9/2014	NA	USA	USA	USA	2014-09	2014-09-01	NA
+PP334183	PP334183	15654	viral cRNA	2024-05-01	Human orthorubulavirus 2	Homo sapiens	HPIV2/USA/1I7/2019	NA	USA	USA	USA	2019-05	2019-05-01	metagenomic
+PP334187	PP334187	15654	viral cRNA	2024-05-01	Human orthorubulavirus 2	Homo sapiens	HPIV2/USA/3P3/2009	NA	USA	USA	USA	2009-07	2009-07-01	metagenomic
+PP334188	PP334188	15654	viral cRNA	2024-05-01	Human orthorubulavirus 2	Homo sapiens	HPIV2/USA/4D10/2009	NA	USA	USA	USA	2009-09	2009-09-01	metagenomic
+PP334189	PP334189	15654	viral cRNA	2024-05-01	Human orthorubulavirus 2	Homo sapiens	HPIV2/USA/11Q2/2014	NA	USA	USA	USA	2014-11	2014-11-01	metagenomic
+PP737253	PP737253	15654	viral cRNA	2024-05-12	Human orthorubulavirus 2	Homo sapiens	hPiv2/Russia/SPE-RII-1090S/2023	NA	Russia: Saint Petersburg	Russia	RUS	16-Oct-2023	2023-10-16	GIHSN ID: 23/24-3-0129
+PP737254	PP737254	15654	viral cRNA	2024-05-12	Human orthorubulavirus 2	Homo sapiens	hPiv2/Russia/SPE-RII-2168S/2023	NA	Russia: Saint Petersburg	Russia	RUS	27-Oct-2023	2023-10-27	NA
+PP886712	PP886712	15654	viral cRNA	2024-06-12	Human orthorubulavirus 2	Homo sapiens	hPIV2/Russia/SPE-RII-3681S/2018	NA	Russia: Saint Petersburg	Russia	RUS	09-Apr-2018	2018-04-09	GIHSN ID: 17/18-2-904
+PP886713	PP886713	15654	viral cRNA	2024-06-12	Human orthorubulavirus 2	Homo sapiens	hPIV2/Russia/SPE-RII-3898S/2018	NA	Russia: Saint Petersburg	Russia	RUS	16-Apr-2018	2018-04-16	GIHSN ID: 17/18-3-570
+PP886714	PP886714	15654	viral cRNA	2024-06-12	Human orthorubulavirus 2	Homo sapiens	hPIV2/Russia/SPE-RII-109S/2018	NA	Russia: Saint Petersburg	Russia	RUS	21-Nov-2018	2018-11-21	NA
+PP886715	PP886715	15654	viral cRNA	2024-06-12	Human orthorubulavirus 2	Homo sapiens	hPIV2/Russia/SPE-RII-1178S/2020	NA	Russia: Saint Petersburg	Russia	RUS	21-Jan-2020	2020-01-21	GIHSN ID: 19/20-2-0088
+PP886716	PP886716	15654	viral cRNA	2024-06-12	Human orthorubulavirus 2	Homo sapiens	hPIV2/Russia/SPE-RII-3334S/2020	NA	Russia: Saint Petersburg	Russia	RUS	10-Mar-2020	2020-03-10	GIHSN ID: 19/20-2-0326
+PP886717	PP886717	15654	viral cRNA	2024-06-12	Human orthorubulavirus 2	Homo sapiens	hPIV2/Russia/SPE-RII-3410S/2020	NA	Russia: Saint Petersburg	Russia	RUS	12-Mar-2020	2020-03-12	NA
+PP886718	PP886718	15654	viral cRNA	2024-06-12	Human orthorubulavirus 2	Homo sapiens	hPIV2/Russia/SPE-RII-2009S/2022	NA	Russia: Saint Petersburg	Russia	RUS	27-Oct-2022	2022-10-27	GIHSN ID: 22/23-3-0145
+PP886719	PP886719	15654	viral cRNA	2024-06-12	Human orthorubulavirus 2	Homo sapiens	hPIV2/Russia/SPE-RII-17155S/2023	NA	Russia: Saint Petersburg	Russia	RUS	17-Apr-2023	2023-04-17	GIHSN ID: 22/23-3-1764
+PP886720	PP886720	15654	viral cRNA	2024-06-12	Human orthorubulavirus 2	Homo sapiens	hPIV2/Russia/SPE-RII-19044S/2023	NA	Russia: Saint Petersburg	Russia	RUS	12-May-2023	2023-05-12	NA
+PP886721	PP886721	15654	viral cRNA	2024-06-12	Human orthorubulavirus 2	Homo sapiens	hPIV2/Russia/SPE-RII-20781S/2023	NA	Russia: Saint Petersburg	Russia	RUS	05-Jun-2023	2023-06-05	NA
+PP886722	PP886722	15654	viral cRNA	2024-06-12	Human orthorubulavirus 2	Homo sapiens	hPIV2/Russia/SPE-RII-22784S/2023	NA	Russia: Saint Petersburg	Russia	RUS	07-Jul-2023	2023-07-07	NA
+PP334186	PP334186	15651	viral cRNA	2024-05-01	Human orthorubulavirus 2	Homo sapiens	HPIV2/USA/11Q10/2014	NA	USA	USA	USA	2014-12	2014-12-01	metagenomic
+PP477777	PP477777	15649	viral cRNA	2024-03-19	Human orthorubulavirus 2	Homo sapiens	hPIV2/Russia/SPE-RII-17155V/2023	NA	Russia: Saint Petersburg	Russia	RUS	17-Apr-2023	2023-04-17	GIHSN ID: 22/23-3-1764
+PP591755	PP591755	15647	viral cRNA	2024-04-16	Human orthorubulavirus 2	Homo sapiens	ASU101502	NA	USA	USA	USA	14-Mar-2023	2023-03-14	metagenomic
+X57559	X57559	15646	genomic RNA	2005-06-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+NC_003443	NC_003443	15646	genomic RNA	2018-08-13	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115617	GN115617	15646	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FV537050	FV537050	15646	unassigned DNA	2010-03-18	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FV537051	FV537051	15646	unassigned DNA	2010-03-18	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FV537052	FV537052	15646	unassigned DNA	2010-03-18	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FV537053	FV537053	15646	unassigned DNA	2010-03-18	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584471	FW584471	15646	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MF077313	MF077313	15645	viral cRNA	2017-06-17	Human orthorubulavirus 2	Homo sapiens	hPIV2/USA/ACRI_0248/2017	NA	USA: Little Rock, Arkansas	USA	USA	Mar-2017	2017-03-01	NA
+MG773274	MG773274	15645	viral cRNA	2018-07-14	Human orthorubulavirus 2	Homo sapiens	HPIV2/BuenosAires/ARG/001/2017	NA	Argentina	Argentina	ARG	05-Jul-2017	2017-07-05	NA
+KY674946	KY674946	15644	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/1A5/2009	NA	USA	USA	USA	2009	2009-01-01	NA
+KY674965	KY674965	15644	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/9N8/2012	NA	USA	USA	USA	2012	2012-01-01	NA
+KY986644	KY986644	15644	viral cRNA	2023-04-11	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/6R6/2010	NA	USA	USA	USA	2015	2015-01-01	NA
+MK167027	MK167027	15644	viral cRNA	2020-02-21	Human orthorubulavirus 2	Homo sapiens	HPIV2/Los_Angeles/USA/CHLA18/2016	NA	USA	USA	USA	2016	2016-01-01	NA
+LC720870	LC720870	15644	viral cRNA	2022-07-30	Human orthorubulavirus 2	Homo sapiens	PIV2_Fukushima_OR331_2021	NA	Japan: Fukushima	Japan	JPN	2021	2021-01-01	NA
+KY674948	KY674948	15643	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/1C3/2009	NA	USA	USA	USA	2009	2009-01-01	NA
+MK167025	MK167025	15643	viral cRNA	2020-02-21	Human orthorubulavirus 2	Homo sapiens	HPIV2/Los_Angeles/USA/CHLA23/2016	NA	USA	USA	USA	2016	2016-01-01	NA
+MF077311	MF077311	15642	viral cRNA	2017-06-17	Human orthorubulavirus 2	Homo sapiens	hPIV2/USA/ACRI_0185/2016	NA	USA: Little Rock, Arkansas	USA	USA	Oct-2016	2016-10-01	NA
+LC720867	LC720867	15642	viral cRNA	2022-07-30	Human orthorubulavirus 2	Homo sapiens	PIV2_Fukushima_O78_2018	NA	Japan: Fukushima	Japan	JPN	2018	2018-01-01	NA
+MF077312	MF077312	15641	viral cRNA	2017-06-17	Human orthorubulavirus 2	Homo sapiens	hPIV2/USA/ACRI_0230/2017	NA	USA: Little Rock, Arkansas	USA	USA	Feb-2017	2017-02-01	NA
+OQ990765	OQ990765	15641	viral cRNA	2024-09-06	Human orthorubulavirus 2	Homo sapiens	HPIV2/China_Beijing/BCH20160149/2016	NA	China	China	CHN	23-Mar-2016	2016-03-23	NA
+OQ990770	OQ990770	15641	viral cRNA	2024-09-06	Human orthorubulavirus 2	Homo sapiens	HPIV2/China_Beijing/BCH20170457/2017	NA	China	China	CHN	23-Oct-2017	2017-10-23	NA
+PP933705	PP933705	15640	viral cRNA	2024-07-01	Human orthorubulavirus 2	Homo sapiens	HPIV-2/USA/MD-ARIA-07339/2023	NA	USA: Maryland	USA	USA	2023-03	2023-03-01	NA
+MF973165	MF973165	15639	viral cRNA	2023-04-11	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/7J3/2011	NA	USA	USA	USA	NA	NA	NA
+OQ848526	OQ848526	15639	viral cRNA	2024-03-14	Human orthorubulavirus 2	Homo sapiens	HPIV2/USA/7J4/2011	NA	USA	USA	USA	2011-01	2011-01-01	NA
+KM190939	KM190939	15638	viral cRNA	2015-05-31	Human orthorubulavirus 2	Homo sapiens	VIROAF10	NA	Thailand	Thailand	THA	06-Jun-2011	2011-06-06	passage history:H292-3, LLC-MK2-2
+KY674968	KY674968	15635	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/9T8/2012	NA	USA	USA	USA	2012	2012-01-01	NA
+OM451137	OM451137	15633	viral cRNA	2022-03-09	Human orthorubulavirus 2	malayan pangolin	ZJ-MO3	NA	China	China	CHN	2019	2019-01-01	metagenomic
+KY674949	KY674949	15631	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/7A6/2010	NA	USA	USA	USA	2010	2010-01-01	NA
+MN369034	MN369034	15631	viral cRNA	2020-02-21	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/SC9949/2018	NA	USA	USA	USA	2018	2018-01-01	NA
+MT118716	MT118716	15631	viral cRNA	2021-02-03	Human orthorubulavirus 2	Homo sapiens	2019_2885	NA	USA	USA	USA	2019	2019-01-01	NA
+LC720866	LC720866	15627	viral cRNA	2022-07-30	Human orthorubulavirus 2	Homo sapiens	PIV2_Fukushima_O739_2019	NA	Japan: Fukushima	Japan	JPN	2019	2019-01-01	NA
+PP933707	PP933707	15620	viral cRNA	2024-07-01	Human orthorubulavirus 2	Homo sapiens	HPIV-2/USA/MD-ARIA-07624/2023	NA	USA: Maryland	USA	USA	2023-04	2023-04-01	NA
+MK167029	MK167029	15616	viral cRNA	2020-02-21	Human orthorubulavirus 2	Homo sapiens	HPIV2/Los_Angeles/USA/CHLA26/2016	NA	USA	USA	USA	2016	2016-01-01	NA
+PP334190	PP334190	15616	viral cRNA	2024-05-01	Human orthorubulavirus 2	Homo sapiens	HPIV2/USA/13F6/2016	NA	USA	USA	USA	2016-09	2016-09-01	metagenomic
+PP933706	PP933706	15614	viral cRNA	2024-07-01	Human orthorubulavirus 2	Homo sapiens	HPIV-2/USA/MD-ARIA-07379/2023	NA	USA: Maryland	USA	USA	2023-03	2023-03-01	NA
+KY986646	KY986646	15611	viral cRNA	2022-05-06	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/SC3002/2015	NA	USA	USA	USA	2015	2015-01-01	NA
+OM451136	OM451136	15611	viral cRNA	2022-03-09	Human orthorubulavirus 2	malayan pangolin	ZJ-MO2	NA	China	China	CHN	2019	2019-01-01	metagenomic
+KY674944	KY674944	15608	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/9E1/2012	NA	USA	USA	USA	2012	2012-01-01	NA
+PP334185	PP334185	15608	viral cRNA	2024-05-01	Human orthorubulavirus 2	Homo sapiens	HPIV2/USA/11Q9/2014	NA	USA	USA	USA	2014-11	2014-11-01	metagenomic
+KY674945	KY674945	15607	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/7E7/2010	NA	USA	USA	USA	2010	2010-01-01	NA
+KY674957	KY674957	15605	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/6Q5/2010	NA	USA	USA	USA	2010	2010-01-01	NA
+KY674952	KY674952	15600	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/7B2/2010	NA	USA	USA	USA	2010	2010-01-01	NA
+KY674956	KY674956	15596	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/6Q1/2010	NA	USA	USA	USA	2010	2010-01-01	NA
+KY674962	KY674962	15595	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/9I5/2012	NA	USA	USA	USA	2012	2012-01-01	NA
+KY674972	KY674972	15590	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/11R3/2014	NA	USA	USA	USA	2014	2014-01-01	NA
+OQ990767	OQ990767	15590	viral cRNA	2024-09-06	Human orthorubulavirus 2	Homo sapiens	HPIV2/China_Beijing/BCH20170249/2017	NA	China	China	CHN	12-May-2017	2017-05-12	NA
+KY674969	KY674969	15589	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/10F10/2013	NA	USA	USA	USA	2013	2013-01-01	NA
+LC654458	LC654458	15584	genomic RNA	2022-03-29	Human orthorubulavirus 2	Homo sapiens 4 yeal old girl	NIID_56606_2_2019	NA	USA	USA	USA	2016-11-25	2016-11-25	NA
+KY674950	KY674950	15581	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/7A10/2010	NA	USA	USA	USA	2010	2010-01-01	NA
+MT118669	MT118669	15579	viral cRNA	2021-02-03	Human orthorubulavirus 2	Homo sapiens	2018_0072	NA	USA	USA	USA	2018	2018-01-01	NA
+KY674961	KY674961	15572	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/10A2/2012	NA	USA	USA	USA	2012	2012-01-01	NA
+PQ621733	PQ621733	15563	viral cRNA	2024-11-25	Human orthorubulavirus 2	Homo sapiens	PIV2/Kunming/0621/2024	NA	China	China	CHN	21-Jun-2024	2024-06-21	NA
+MK167024	MK167024	15558	viral cRNA	2020-02-21	Human orthorubulavirus 2	Homo sapiens	HPIV2/Los_Angeles/USA/CHLA31/2016	NA	USA	USA	USA	2016	2016-01-01	NA
+KY674951	KY674951	15557	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/7B1/2010	NA	USA	USA	USA	2010	2010-01-01	NA
+KY674970	KY674970	15551	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/10J3/2013	NA	USA	USA	USA	2013	2013-01-01	NA
+PP101995	PP101995	15544	viral cRNA	2024-01-24	Human orthorubulavirus 2	NA	MBC038	NA	Spain	Spain	ESP	05-Jul-2023	2023-07-05	NA
+MT118675	MT118675	15541	viral cRNA	2021-02-03	Human orthorubulavirus 2	Homo sapiens	2018_9783	NA	USA	USA	USA	2018	2018-01-01	NA
+KY674971	KY674971	15537	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/11P5/2014	NA	USA	USA	USA	2014	2014-01-01	NA
+KY967352	KY967352	15537	viral cRNA	2023-04-11	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/6O5/2010	NA	USA	USA	USA	2015	2015-01-01	NA
+MK167028	MK167028	15517	viral cRNA	2020-02-21	Human orthorubulavirus 2	Homo sapiens	HPIV2/Los_Angeles/USA/CHLA9/2016	NA	USA	USA	USA	2016	2016-01-01	NA
+OQ990771	OQ990771	15513	viral cRNA	2024-09-06	Human orthorubulavirus 2	Homo sapiens	HPIV2/China_Beijing/BCH19212/2019	NA	China	China	CHN	15-Nov-2019	2019-11-15	NA
+PQ227132	PQ227132	15506	viral cRNA	2024-10-06	Human orthorubulavirus 2	Homo sapiens	GA_EHC_7115E	NA	USA: Georgia	USA	USA	2023-04-19	2023-04-19	NA
+KY674958	KY674958	15498	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/6Q9/2010	NA	USA	USA	USA	2010	2010-01-01	NA
+KY674955	KY674955	15498	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/6P4/2010	NA	USA	USA	USA	2010	2010-01-01	NA
+MH006627	MH006627	15482	viral cRNA	2018-05-17	Human orthorubulavirus 2	Homo sapiens	HPIV2/VietNam/069/2010	NA	Viet Nam	Viet Nam	VNM	18-Mar-2010	2010-03-18	NA
+MH006623	MH006623	15476	viral cRNA	2018-05-17	Human orthorubulavirus 2	Homo sapiens	HPIV2/VietNam/008/2009	NA	Viet Nam	Viet Nam	VNM	30-Jul-2009	2009-07-30	NA
+KY674947	KY674947	15465	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/1B6/2009	NA	USA	USA	USA	2009	2009-01-01	NA
+KY674960	KY674960	15455	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/7S8/2011	NA	USA	USA	USA	2011	2011-01-01	NA
+PP334184	PP334184	15455	viral cRNA	2024-05-01	Human orthorubulavirus 2	Homo sapiens	HPIV2/USA/3M8/2009	NA	USA	USA	USA	2009-07	2009-07-01	metagenomic
+KY674954	KY674954	15386	viral cRNA	2023-12-22	Human orthorubulavirus 2	Homo sapiens	HPIV2/Seattle/USA/6O5/2010	NA	USA	USA	USA	2010	2010-01-01	NA
+OL519582	OL519582	15284	viral cRNA	2022-03-08	Human orthorubulavirus 2	Homo sapiens	xz023-orthorubulavirus-2	NA	China	China	CHN	2018	2018-01-01	metagenomic
+MW575644	MW575644	15039	viral cRNA	2021-06-29	Human orthorubulavirus 2	Homo sapiens	WH17030d1/2017	NA	China	China	CHN	2017	2017-01-01	NA
+MW575645	MW575645	15019	viral cRNA	2021-06-29	Human orthorubulavirus 2	Homo sapiens	WH17080d3/2017	NA	China	China	CHN	2017	2017-01-01	NA
+MH006626	MH006626	10886	viral cRNA	2018-05-17	Human orthorubulavirus 2	Homo sapiens	HPIV2/VietNam/068/2010	NA	Viet Nam	Viet Nam	VNM	03-Mar-2010	2010-03-03	NA
+MH006625	MH006625	10570	viral cRNA	2018-05-17	Human orthorubulavirus 2	Homo sapiens	HPIV2/VietNam/015/2010	NA	Viet Nam	Viet Nam	VNM	04-Feb-2010	2010-02-04	NA
+MH006628	MH006628	7480	viral cRNA	2018-05-17	Human orthorubulavirus 2	Homo sapiens	HPIV2/VietNam/073/2010	NA	Viet Nam	Viet Nam	VNM	16-Mar-2010	2010-03-16	NA
+E03805	E03805	6866	unassigned RNA	2005-11-04	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MH006624	MH006624	5983	viral cRNA	2018-05-17	Human orthorubulavirus 2	Homo sapiens	HPIV2/VietNam/014/2010	NA	Viet Nam	Viet Nam	VNM	27-Jan-2010	2010-01-27	NA
+DQ072589	DQ072589	4394	viral cRNA	2008-09-04	Human orthorubulavirus 2	NA	PIV-2:Lyon/26056/1997	NA	France	France	FRA	NA	NA	type: 2
+GN115607	GN115607	4394	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584465	FW584465	4394	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DQ072588	DQ072588	4335	viral cRNA	2008-09-04	Human orthorubulavirus 2	NA	PIV-2:20435/Lyon/2001	NA	France	France	FRA	NA	NA	type: 2
+GN115602	GN115602	4335	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584462	FW584462	4335	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DQ072586	DQ072586	4333	viral cRNA	2008-09-04	Human orthorubulavirus 2	NA	PIV-2:LYON/18620/2001	NA	France	France	FRA	NA	NA	type: 2
+DQ072587	DQ072587	4333	viral cRNA	2008-09-04	Human orthorubulavirus 2	NA	PIV-2:Lyon/20283/2001	NA	France	France	FRA	NA	NA	type: 2
+GN115592	GN115592	4333	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115597	GN115597	4333	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584456	FW584456	4333	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584459	FW584459	4333	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+KT595232	KT595232	3992	mRNA	2016-02-16	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/29.12(2725)	NA	Croatia	Croatia	HRV	04-Jul-2012	2012-07-04	type: 2
+KT595233	KT595233	3992	mRNA	2016-02-16	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/42.12(2995)	NA	Croatia	Croatia	HRV	05-Oct-2012	2012-10-05	type: 2
+KT595234	KT595234	3992	mRNA	2016-02-16	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/44.12(3036)	NA	Croatia	Croatia	HRV	15-Oct-2012	2012-10-15	type: 2
+KT315655	KT315655	3992	viral cRNA	2016-04-09	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/47.11(16406)	NA	Croatia	Croatia	HRV	28-Oct-2011	2011-10-28	NA
+KT315656	KT315656	3992	viral cRNA	2016-04-09	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/47.11(16475)	NA	Croatia	Croatia	HRV	30-Oct-2011	2011-10-30	NA
+KT315657	KT315657	3992	viral cRNA	2016-04-09	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/49.11(16967)	NA	Croatia	Croatia	HRV	09-Nov-2011	2011-11-09	NA
+KT315658	KT315658	3992	viral cRNA	2016-04-09	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/49.11(16971)	NA	Croatia	Croatia	HRV	09-Nov-2011	2011-11-09	NA
+KT315659	KT315659	3992	viral cRNA	2016-04-09	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/49.11(17034)	NA	Croatia	Croatia	HRV	12-Nov-2011	2011-11-12	NA
+KT315660	KT315660	3992	viral cRNA	2016-04-09	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/28.12(2706)	NA	Croatia	Croatia	HRV	27-Jun-2012	2012-06-27	NA
+KT315661	KT315661	3992	viral cRNA	2016-04-09	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/38.12(2858)	NA	Croatia	Croatia	HRV	03-Sep-2012	2012-09-03	NA
+KT315662	KT315662	3992	viral cRNA	2016-04-09	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/41.12(2950)	NA	Croatia	Croatia	HRV	27-Sep-2012	2012-09-27	NA
+KT315663	KT315663	3992	viral cRNA	2016-04-09	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/50.12(3257)	NA	Croatia	Croatia	HRV	29-Nov-2012	2012-11-29	NA
+KT315664	KT315664	3992	viral cRNA	2016-04-09	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/50.12(3263)	NA	Croatia	Croatia	HRV	29-Nov-2012	2012-11-29	NA
+KT315665	KT315665	3992	viral cRNA	2016-04-09	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/51.12(3316)	NA	Croatia	Croatia	HRV	06-Dec-2012	2012-12-06	NA
+KT315666	KT315666	3992	viral cRNA	2016-04-09	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/42.14(1472)	NA	Croatia	Croatia	HRV	17-Oct-2014	2014-10-17	NA
+KT315667	KT315667	3992	viral cRNA	2016-04-09	Human orthorubulavirus 2	Homo sapiens	HPIV2i/Zagreb.HR/47.14(1688)	NA	Croatia	Croatia	HRV	22-Nov-2014	2014-11-22	NA
+MF163150	MF163150	3992	genomic RNA	2017-11-01	Human orthorubulavirus 2	Homo sapiens	1779	NA	Croatia	Croatia	HRV	20-Nov-2015	2015-11-20	NA
+MF163151	MF163151	3992	genomic RNA	2017-11-01	Human orthorubulavirus 2	Homo sapiens	1849	NA	Croatia	Croatia	HRV	02-Dec-2015	2015-12-02	NA
+MG460766	MG460766	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	222	NA	Croatia	Croatia	HRV	20-Jan-2016	2016-01-20	NA
+MG460767	MG460767	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	1623	NA	Croatia	Croatia	HRV	11-Jul-2016	2016-07-11	NA
+MG460768	MG460768	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	1827	NA	Croatia	Croatia	HRV	14-Sep-2016	2016-09-14	NA
+MG460769	MG460769	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	1916	NA	Croatia	Croatia	HRV	07-Oct-2016	2016-10-07	NA
+MG460770	MG460770	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	1939	NA	Croatia	Croatia	HRV	11-Oct-2016	2016-10-11	NA
+MG460771	MG460771	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	1995	NA	Croatia	Croatia	HRV	19-Oct-2016	2016-10-19	NA
+MG460772	MG460772	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	2085	NA	Croatia	Croatia	HRV	02-Nov-2016	2016-11-02	NA
+MG460773	MG460773	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	2115	NA	Croatia	Croatia	HRV	04-Nov-2016	2016-11-04	NA
+MG460774	MG460774	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	2165	NA	Croatia	Croatia	HRV	10-Nov-2016	2016-11-10	NA
+MG460775	MG460775	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	2188	NA	Croatia	Croatia	HRV	14-Nov-2016	2016-11-14	NA
+MG460776	MG460776	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	2209	NA	Croatia	Croatia	HRV	14-Nov-2016	2016-11-14	NA
+MG460777	MG460777	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	2241	NA	Croatia	Croatia	HRV	17-Nov-2016	2016-11-17	NA
+MG460778	MG460778	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	2400	NA	Croatia	Croatia	HRV	05-Dec-2016	2016-12-05	NA
+MG460779	MG460779	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	2469	NA	Croatia	Croatia	HRV	12-Dec-2016	2016-12-12	NA
+MG460780	MG460780	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	2513	NA	Croatia	Croatia	HRV	14-Dec-2016	2016-12-14	NA
+MG460781	MG460781	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	2514	NA	Croatia	Croatia	HRV	14-Dec-2016	2016-12-14	NA
+MG460782	MG460782	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	2534	NA	Croatia	Croatia	HRV	16-Dec-2016	2016-12-16	NA
+MG460783	MG460783	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	208	NA	Croatia	Croatia	HRV	16-Jan-2017	2017-01-16	NA
+MG460784	MG460784	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	228	NA	Croatia	Croatia	HRV	17-Jan-2017	2017-01-17	NA
+MG460785	MG460785	3992	viral cRNA	2018-09-25	Human orthorubulavirus 2	Homo sapiens	705	NA	Croatia	Croatia	HRV	16-Feb-2017	2017-02-16	NA
+DQ072590	DQ072590	2472	viral cRNA	2008-09-04	Human orthorubulavirus 2	NA	PIV-2:Lyon/26632/1997	NA	France	France	FRA	NA	NA	type: 2
+GN115612	GN115612	2472	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584468	FW584468	2472	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+D00865	D00865	2054	mRNA	2020-12-19	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	Parainfluenza virus type 2
+M60182	M60182	2030	mRNA	1993-08-02	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+AF213352	AF213352	1994	mRNA	2000-09-07	Human orthorubulavirus 2	NA	PIV2/V9412-6	NA	NA	NA	NA	NA	NA	NA
+AB367954	AB367954	1919	mRNA	2020-12-19	Human orthorubulavirus 2	NA	Greer-J1	NA	NA	NA	NA	NA	NA	NA
+M55320	M55320	1913	mRNA	1993-08-02	Human orthorubulavirus 2	NA	Toshiba	NA	NA	NA	NA	NA	NA	NA
+HM460888	HM460888	1904	viral cRNA	2013-05-14	Human orthorubulavirus 2	Homo sapiens	Riyadh 105/2009	NA	Saudi Arabia	Saudi Arabia	SAU	2009	2009-01-01	NA
+AB189948	AB189948	1888	mRNA	2020-12-19	Human orthorubulavirus 2	NA	62-M786	NA	NA	NA	NA	NA	NA	synonym:Human parainfluenza virus type 2
+AB189949	AB189949	1888	mRNA	2020-12-19	Human orthorubulavirus 2	NA	86-391	NA	NA	NA	NA	NA	NA	synonym:Human parainfluenza virus type 2
+AB189950	AB189950	1888	mRNA	2020-12-19	Human orthorubulavirus 2	NA	76-86	NA	NA	NA	NA	NA	NA	synonym:Human parainfluenza virus type 2
+AB189951	AB189951	1888	mRNA	2020-12-19	Human orthorubulavirus 2	NA	4-80	NA	NA	NA	NA	NA	NA	synonym:Human parainfluenza virus type 2
+AB189952	AB189952	1888	mRNA	2020-12-19	Human orthorubulavirus 2	NA	TC-6482	NA	NA	NA	NA	NA	NA	synonym:Human parainfluenza virus type 2
+AB189953	AB189953	1888	mRNA	2020-12-19	Human orthorubulavirus 2	NA	TC-6558	NA	NA	NA	NA	NA	NA	synonym:Human parainfluenza virus type 2
+M55698	M55698	1882	genomic RNA	1993-08-02	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+AF213351	AF213351	1861	mRNA	2000-09-07	Human orthorubulavirus 2	NA	PIV2/V9412-6	NA	NA	NA	NA	NA	NA	NA
+GN115598	GN115598	1812	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584460	FW584460	1812	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115600	GN115600	1776	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584461	FW584461	1776	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115595	GN115595	1716	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115603	GN115603	1716	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115625	GN115625	1716	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115620	GN115620	1716	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115610	GN115610	1716	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115608	GN115608	1716	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115605	GN115605	1716	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584458	FW584458	1716	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584463	FW584463	1716	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584464	FW584464	1716	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584466	FW584466	1716	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584467	FW584467	1716	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584473	FW584473	1716	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584476	FW584476	1716	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+JF416793	JF416793	1716	viral cRNA	2014-12-31	Human orthorubulavirus 2	Homo sapiens	KPIV-06-25	NA	South Korea	South Korea	KOR	05-Jan-2006	2006-01-05	NA
+JF416794	JF416794	1716	viral cRNA	2014-12-31	Human orthorubulavirus 2	Homo sapiens	KPIV-06-26	NA	South Korea	South Korea	KOR	26-Feb-2006	2006-02-26	NA
+JF912194	JF912194	1716	viral cRNA	2011-11-09	Human orthorubulavirus 2	Homo sapiens	Oklahoma/94/2009	NA	USA	USA	USA	2009	2009-01-01	NA
+JF912195	JF912195	1716	viral cRNA	2011-11-09	Human orthorubulavirus 2	Homo sapiens	Oklahoma/283/2009	NA	USA	USA	USA	2009	2009-01-01	NA
+JF912196	JF912196	1716	viral cRNA	2011-11-09	Human orthorubulavirus 2	Homo sapiens	Oklahoma/3955/2005	NA	USA	USA	USA	2005	2005-01-01	NA
+KT898921	KT898921	1716	viral cRNA	2015-11-14	Human orthorubulavirus 2	Homo sapiens	Pavia/VR9944/2009	NA	Italy	Italy	ITA	Oct-2009	2009-10-01	NA
+KT898922	KT898922	1716	viral cRNA	2015-11-14	Human orthorubulavirus 2	Homo sapiens	Pavia/VR9324/2007	NA	Italy	Italy	ITA	Jul-2007	2007-07-01	NA
+KT898923	KT898923	1716	viral cRNA	2015-11-14	Human orthorubulavirus 2	Homo sapiens	Pavia/VR9388/2007	NA	Italy	Italy	ITA	Dec-2007	2007-12-01	NA
+KT898924	KT898924	1716	viral cRNA	2015-11-14	Human orthorubulavirus 2	Homo sapiens	Greer	NA	NA	NA	NA	NA	NA	NA
+KX912737	KX912737	1716	viral cRNA	2018-10-12	Human orthorubulavirus 2	Homo sapiens	MY-U1390/12	NA	Malaysia	Malaysia	MYS	02-Nov-2012	2012-11-02	NA
+KX912738	KX912738	1716	viral cRNA	2018-10-12	Human orthorubulavirus 2	Homo sapiens	MY-U1641/12	NA	Malaysia	Malaysia	MYS	12-Dec-2012	2012-12-12	NA
+KX912739	KX912739	1716	viral cRNA	2018-10-12	Human orthorubulavirus 2	Homo sapiens	MY-U1953/13	NA	Malaysia	Malaysia	MYS	08-Feb-2013	2013-02-08	NA
+KX912740	KX912740	1716	viral cRNA	2018-10-12	Human orthorubulavirus 2	Homo sapiens	MY-U1985/13	NA	Malaysia	Malaysia	MYS	18-Feb-2013	2013-02-18	NA
+KX912741	KX912741	1716	viral cRNA	2018-10-12	Human orthorubulavirus 2	Homo sapiens	MY-U2486/13	NA	Malaysia	Malaysia	MYS	10-Jun-2013	2013-06-10	NA
+KX912742	KX912742	1716	viral cRNA	2018-10-12	Human orthorubulavirus 2	Homo sapiens	MY-U2501/13	NA	Malaysia	Malaysia	MYS	12-Jun-2013	2013-06-12	NA
+KX912743	KX912743	1716	viral cRNA	2018-10-12	Human orthorubulavirus 2	Homo sapiens	MY-U2569/13	NA	Malaysia	Malaysia	MYS	01-Jul-2013	2013-07-01	NA
+KX912744	KX912744	1716	viral cRNA	2018-10-12	Human orthorubulavirus 2	Homo sapiens	MY-U2624/13	NA	Malaysia	Malaysia	MYS	19-Jul-2013	2013-07-19	NA
+KX912745	KX912745	1716	viral cRNA	2018-10-12	Human orthorubulavirus 2	Homo sapiens	MY-U2871/13	NA	Malaysia	Malaysia	MYS	07-Oct-2013	2013-10-07	NA
+KX912746	KX912746	1716	viral cRNA	2018-10-12	Human orthorubulavirus 2	Homo sapiens	MY-U3258/13	NA	Malaysia	Malaysia	MYS	18-Dec-2013	2013-12-18	NA
+KX912747	KX912747	1716	viral cRNA	2018-10-12	Human orthorubulavirus 2	Homo sapiens	MY-U3500/14	NA	Malaysia	Malaysia	MYS	12-Feb-2014	2014-02-12	NA
+MW654464	MW654464	1716	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0438/14-15	NA	Germany	Germany	DEU	2014-11-10	2014-11-10	NA
+MW654465	MW654465	1716	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0705/14-15	NA	Germany	Germany	DEU	2014-11-24	2014-11-24	NA
+MW654466	MW654466	1716	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0271/16-17	NA	Germany	Germany	DEU	2016-10-26	2016-10-26	NA
+MW654467	MW654467	1716	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0424/16-17	NA	Germany	Germany	DEU	2016-11-07	2016-11-07	NA
+MW654468	MW654468	1716	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0539/16-17	NA	Germany	Germany	DEU	2016-11-15	2016-11-15	NA
+MW654469	MW654469	1716	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0926/16-17	NA	Germany	Germany	DEU	2016-11-29	2016-11-29	NA
+MW654470	MW654470	1716	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/1164/16-17	NA	Germany	Germany	DEU	2016-12-14	2016-12-14	NA
+MW654471	MW654471	1716	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/1668/16-17	NA	Germany	Germany	DEU	2017-01-02	2017-01-02	NA
+MW654472	MW654472	1716	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/4782/16-17	NA	Germany	Germany	DEU	2017-04-04	2017-04-04	NA
+MW654473	MW654473	1716	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/1398/17-18	NA	Germany	Germany	DEU	2017-12-20	2017-12-20	NA
+MW654474	MW654474	1716	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0393/18-19	NA	Germany	Germany	DEU	2018-11-08	2018-11-08	NA
+MW654475	MW654475	1716	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0566/18-19	NA	Germany	Germany	DEU	2018-11-22	2018-11-22	NA
+MW654476	MW654476	1716	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0712/18-19	NA	Germany	Germany	DEU	2018-11-30	2018-11-30	NA
+MW654477	MW654477	1716	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0737/18-19	NA	Germany	Germany	DEU	2018-11-30	2018-11-30	NA
+MW654478	MW654478	1716	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/1008/18-19	NA	Germany	Germany	DEU	2018-12-13	2018-12-13	NA
+MW654479	MW654479	1716	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/1637/18-19	NA	Germany	Germany	DEU	2019-01-23	2019-01-23	NA
+OP672245	OP672245	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/CC105/2019	NA	China	China	CHN	26-May-2002	2002-05-26	NA
+OP672246	OP672246	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/CC-2-001/2020	NA	China	China	CHN	28-Feb-2002	2002-02-28	NA
+OP672247	OP672247	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/CC229/2019	NA	China	China	CHN	13-Jun-2003	2003-06-13	NA
+OP672248	OP672248	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/CC444/2019	NA	China	China	CHN	26-Oct-2002	2002-10-26	NA
+OP672249	OP672249	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/CQ52/2021	NA	China	China	CHN	26-Sep-2002	2002-09-26	NA
+OP672250	OP672250	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/AH383/2020	NA	China	China	CHN	08-Dec-2020	2020-12-08	NA
+OP672251	OP672251	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/HN173/2017	NA	China	China	CHN	26-Sep-2002	2002-09-26	NA
+OP672252	OP672252	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/HN194/2017	NA	China	China	CHN	02-Dec-2002	2002-12-02	NA
+OP672253	OP672253	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/HN211/2017	NA	China	China	CHN	26-Oct-2002	2002-10-26	NA
+OP672254	OP672254	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/HN043/2018	NA	China	China	CHN	26-Oct-2002	2002-10-26	NA
+OP672255	OP672255	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/GS396/2011	NA	China	China	CHN	02-Dec-2002	2002-12-02	NA
+OP672256	OP672256	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/GS191/2011	NA	China	China	CHN	10-Nov-2000	2000-11-10	NA
+OP672257	OP672257	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/HN405/2019	NA	China	China	CHN	26-Sep-2002	2002-09-26	NA
+OP672258	OP672258	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/HN428/2019	NA	China	China	CHN	10-Nov-2000	2000-11-10	NA
+OP672259	OP672259	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/QD279/2019	NA	China	China	CHN	26-Oct-2002	2002-10-26	NA
+OP672260	OP672260	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/CC091/2019	NA	China	China	CHN	16-Apr-2001	2001-04-16	NA
+OP672261	OP672261	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/HB20/2019	NA	China	China	CHN	26-Oct-2002	2002-10-26	NA
+OP672262	OP672262	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/CC338/2019	NA	China	China	CHN	15-Aug-2000	2000-08-15	NA
+OP672263	OP672263	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/HN389/2019	NA	China	China	CHN	26-Oct-2002	2002-10-26	NA
+OP672264	OP672264	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/HN491/2019	NA	China	China	CHN	02-Dec-2002	2002-12-02	NA
+OP672265	OP672265	1716	viral cRNA	2023-03-28	Human orthorubulavirus 2	Homo sapiens	HPIV2/CHN/HN185/2017	NA	China	China	CHN	10-Nov-2000	2000-11-10	NA
+MN488703	MN488703	1710	viral cRNA	2020-10-12	Human orthorubulavirus 2	Homo sapiens sample 4310700722	NA	NA	Netherlands	Netherlands	NLD	26-Nov-2007	2007-11-26	Probe capture/Targeted metagenomics
+MW654456	MW654456	1710	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/2771/16-17	NA	Germany	Germany	DEU	2017-01-30	2017-01-30	NA
+MW654457	MW654457	1710	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/5668/16-17	NA	Germany	Germany	DEU	2017-09-04	2017-09-04	NA
+MW654458	MW654458	1710	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/1535/16-17	NA	Germany	Germany	DEU	2017-01-02	2017-01-02	NA
+MW654459	MW654459	1710	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0324/18-19	NA	Germany	Germany	DEU	2018-11-06	2018-11-06	NA
+MW654460	MW654460	1710	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0361/18-19	NA	Germany	Germany	DEU	2018-11-06	2018-11-06	NA
+MW654461	MW654461	1710	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0637/18-19	NA	Germany	Germany	DEU	2018-11-15	2018-11-15	NA
+MW654462	MW654462	1710	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/1053/18-19	NA	Germany	Germany	DEU	2018-12-17	2018-12-17	NA
+MW654463	MW654463	1710	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/1015/16-17	NA	Germany	Germany	DEU	2016-12-06	2016-12-06	NA
+MW654450	MW654450	1697	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0469/16-17	NA	Germany	Germany	DEU	2016-11-08	2016-11-08	NA
+MW654451	MW654451	1697	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0589/16-17	NA	Germany	Germany	DEU	2016-11-17	2016-11-17	NA
+MW654452	MW654452	1697	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0595/18-19	NA	Germany	Germany	DEU	2018-11-23	2018-11-23	NA
+MW654453	MW654453	1697	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0635/18-19	NA	Germany	Germany	DEU	2018-11-15	2018-11-15	NA
+MW654454	MW654454	1697	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0661/18-19	NA	Germany	Germany	DEU	2018-11-26	2018-11-26	NA
+MW654455	MW654455	1697	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0987/18-19	NA	Germany	Germany	DEU	2018-12-13	2018-12-13	NA
+MW654480	MW654480	1688	viral cRNA	2021-08-24	Human orthorubulavirus 2	Homo sapiens	GER/0264/18-19	NA	Germany	Germany	DEU	2018-10-31	2018-10-31	NA
+GN115593	GN115593	1656	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115618	GN115618	1656	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115615	GN115615	1656	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115613	GN115613	1656	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GU187338	GU187338	1656	viral cRNA	2009-12-16	Human orthorubulavirus 2	Homo sapiens	hPIV-2/Lyon/27640/2009	NA	France	France	FRA	2009	2009-01-01	derived form prototype strain Greer (ATCC VR92)
+FW584457	FW584457	1656	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584469	FW584469	1656	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584470	FW584470	1656	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584472	FW584472	1656	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MK512665	MK512665	1656	mRNA	2019-09-02	Human orthorubulavirus 2	Homo sapiens	PIV2/Hu/2016	NA	Canada	Canada	CAN	16-Jul-2016	2016-07-16	genotype: 2
+GN115623	GN115623	1655	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584475	FW584475	1655	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MN488688	MN488688	1632	viral cRNA	2020-10-12	Human orthorubulavirus 2	Homo sapiens sample 4310700722	NA	NA	Netherlands	Netherlands	NLD	26-Nov-2007	2007-11-26	Probe capture/Targeted metagenomics
+MK512664	MK512664	1595	mRNA	2019-09-02	Human orthorubulavirus 2	Gorilla gorilla gorilla	PIV2/Go/2016	NA	Canada	Canada	CAN	06-Jul-2016	2016-07-06	genotype: 2
+MZ576382	MZ576382	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_2/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-06-16	2015-06-16	NA
+MZ576383	MZ576383	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_3/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-10-06	2015-10-06	NA
+MZ576384	MZ576384	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_5/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-10-28	2015-10-28	NA
+MZ576385	MZ576385	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_6/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-11-05	2015-11-05	NA
+MZ576386	MZ576386	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_7/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-11-09	2015-11-09	NA
+MZ576387	MZ576387	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_8/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-11-10	2015-11-10	NA
+MZ576388	MZ576388	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_9/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-11-16	2015-11-16	NA
+MZ576389	MZ576389	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_11/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-11-25	2015-11-25	NA
+MZ576390	MZ576390	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_12/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-12-08	2015-12-08	NA
+MZ576391	MZ576391	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_13/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-12-08	2015-12-08	NA
+MZ576392	MZ576392	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_14/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-12-14	2015-12-14	NA
+MZ576393	MZ576393	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_15/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-12-14	2015-12-14	NA
+MZ576394	MZ576394	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_16/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-12-17	2015-12-17	NA
+MZ576395	MZ576395	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_18/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-12-18	2015-12-18	NA
+MZ576396	MZ576396	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_19/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-12-18	2015-12-18	NA
+MZ576397	MZ576397	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_20/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-12-23	2015-12-23	NA
+MZ576398	MZ576398	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_21/Nottingham/2015	NA	United Kingdom	United Kingdom	GBR	2015-12-26	2015-12-26	NA
+MZ576399	MZ576399	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_23/Nottingham/2016	NA	United Kingdom	United Kingdom	GBR	2016-01-04	2016-01-04	NA
+MZ576400	MZ576400	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_24/Nottingham/2016	NA	United Kingdom	United Kingdom	GBR	2016-01-08	2016-01-08	NA
+MZ576401	MZ576401	1516	viral cRNA	2021-12-14	Human orthorubulavirus 2	Homo sapiens	NUH_PF2_26/Nottingham/2017	NA	United Kingdom	United Kingdom	GBR	2017-01-26	2017-01-26	NA
+M37751	M37751	1446	genomic RNA	1993-08-02	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+M37748	M37748	1380	genomic RNA	1993-08-02	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+M62734	M62734	1370	mRNA	1993-08-02	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MF133335	MF133335	1369	viral cRNA	2017-11-01	Human orthorubulavirus 2	Homo sapiens	16406	NA	Croatia	Croatia	HRV	28-Oct-2011	2011-10-28	NA
+MF133336	MF133336	1369	viral cRNA	2017-11-01	Human orthorubulavirus 2	Homo sapiens	16475	NA	Croatia	Croatia	HRV	30-Oct-2011	2011-10-30	NA
+MF133337	MF133337	1369	viral cRNA	2017-11-01	Human orthorubulavirus 2	Homo sapiens	16971	NA	Croatia	Croatia	HRV	09-Nov-2011	2011-11-09	NA
+MF133338	MF133338	1369	viral cRNA	2017-11-01	Human orthorubulavirus 2	Homo sapiens	17034	NA	Croatia	Croatia	HRV	12-Nov-2011	2011-11-12	NA
+MF133339	MF133339	1369	viral cRNA	2017-11-01	Human orthorubulavirus 2	Homo sapiens	2706	NA	Croatia	Croatia	HRV	27-Jun-2012	2012-06-27	NA
+MF133340	MF133340	1369	viral cRNA	2017-11-01	Human orthorubulavirus 2	Homo sapiens	2858	NA	Croatia	Croatia	HRV	03-Sep-2012	2012-09-03	NA
+MF133341	MF133341	1369	viral cRNA	2017-11-01	Human orthorubulavirus 2	Homo sapiens	2950	NA	Croatia	Croatia	HRV	27-Sep-2012	2012-09-27	NA
+MF133342	MF133342	1369	viral cRNA	2017-11-01	Human orthorubulavirus 2	Homo sapiens	3257	NA	Croatia	Croatia	HRV	29-Nov-2012	2012-11-29	NA
+MF133343	MF133343	1369	viral cRNA	2017-11-01	Human orthorubulavirus 2	Homo sapiens	3263	NA	Croatia	Croatia	HRV	29-Nov-2012	2012-11-29	NA
+MF133344	MF133344	1369	viral cRNA	2017-11-01	Human orthorubulavirus 2	Homo sapiens	3316	NA	Croatia	Croatia	HRV	06-Dec-2012	2012-12-06	NA
+MF133345	MF133345	1369	viral cRNA	2017-11-01	Human orthorubulavirus 2	Homo sapiens	1688	NA	Croatia	Croatia	HRV	22-Nov-2014	2014-11-22	NA
+MF133346	MF133346	1369	viral cRNA	2017-11-01	Human orthorubulavirus 2	Homo sapiens	3036	NA	Croatia	Croatia	HRV	15-Oct-2012	2012-10-15	NA
+MF133347	MF133347	1369	viral cRNA	2017-11-01	Human orthorubulavirus 2	Homo sapiens	1779	NA	Croatia	Croatia	HRV	20-Nov-2015	2015-11-20	NA
+MF133348	MF133348	1369	viral cRNA	2017-11-01	Human orthorubulavirus 2	Homo sapiens	1849	NA	Croatia	Croatia	HRV	02-Dec-2015	2015-12-02	NA
+E03806	E03806	1341	unassigned RNA	2005-11-04	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+JX889247	JX889247	1063	viral cRNA	2013-01-25	Human orthorubulavirus 2	NA	NA	NA	Singapore	Singapore	SGP	NA	NA	NA
+LC486579	LC486579	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/12-197	NA	Japan:Saitama	Japan	JPN	2012	2012-01-01	NA
+LC486580	LC486580	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/12-198	NA	Japan:Saitama	Japan	JPN	2012	2012-01-01	NA
+LC486581	LC486581	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/12-251	NA	Japan:Saitama	Japan	JPN	2012	2012-01-01	NA
+LC486582	LC486582	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/12-268	NA	Japan:Saitama	Japan	JPN	2012	2012-01-01	NA
+LC486583	LC486583	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/14-423	NA	Japan:Saitama	Japan	JPN	2014	2014-01-01	NA
+LC486584	LC486584	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/14-455	NA	Japan:Saitama	Japan	JPN	2014	2014-01-01	NA
+LC486585	LC486585	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/14-564	NA	Japan:Saitama	Japan	JPN	2014	2014-01-01	NA
+LC486586	LC486586	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/14-605	NA	Japan:Saitama	Japan	JPN	2014	2014-01-01	NA
+LC486587	LC486587	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/14-616	NA	Japan:Saitama	Japan	JPN	2014	2014-01-01	NA
+LC486588	LC486588	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/14-705	NA	Japan:Saitama	Japan	JPN	2014	2014-01-01	NA
+LC486589	LC486589	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/14-711	NA	Japan:Saitama	Japan	JPN	2014	2014-01-01	NA
+LC486590	LC486590	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/14-837	NA	Japan:Saitama	Japan	JPN	2014	2014-01-01	NA
+LC486591	LC486591	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/16-372	NA	Japan:Saitama	Japan	JPN	2016	2016-01-01	NA
+LC486592	LC486592	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/16-621	NA	Japan:Saitama	Japan	JPN	2016	2016-01-01	NA
+LC486593	LC486593	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/16-625	NA	Japan:Saitama	Japan	JPN	2016	2016-01-01	NA
+LC486594	LC486594	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/17-368	NA	Japan:Saitama	Japan	JPN	2017	2017-01-01	NA
+LC486595	LC486595	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/17-386	NA	Japan:Saitama	Japan	JPN	2017	2017-01-01	NA
+LC486596	LC486596	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/17-609	NA	Japan:Saitama	Japan	JPN	2017	2017-01-01	NA
+LC486597	LC486597	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/17-637	NA	Japan:Saitama	Japan	JPN	2017	2017-01-01	NA
+LC486598	LC486598	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/17-652	NA	Japan:Saitama	Japan	JPN	2017	2017-01-01	NA
+LC486599	LC486599	907	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2s/SaitamaC.JPN/17-730	NA	Japan:Saitama	Japan	JPN	2017	2017-01-01	NA
+PQ159149	PQ159149	591	viral cRNA	2024-08-24	Human orthorubulavirus 2	Homo sapiens	bf4	NA	Iran: Tehran	Iran	IRN	15-Nov-2023	2023-11-15	NA
+MT063324	MT063324	530	viral cRNA	2020-04-30	Human orthorubulavirus 2	Homo sapiens	PREDICT_CMAH81022	NA	Cameroon	Cameroon	CMR	2017	2017-01-01	Military Health Research Center (CRESAR), Mosaic,Global Viral, Metabiota
+MT063465	MT063465	530	viral cRNA	2020-04-30	Human orthorubulavirus 2	Homo sapiens	PREDICT_LAAH1041	NA	Laos	Gabon	GAB	2018	2018-01-01	National Animal Health Laboratory, National Centerfor Laboratory & Epidemiology, Metabiota
+MT063651	MT063651	530	viral cRNA	2020-04-30	Human orthorubulavirus 2	Homo sapiens	PREDICT_BDAH0888	NA	Bangladesh	Bangladesh	BGD	2018	2018-01-01	ICDDR,B, Institute of Epidemiology, Disease Control& Research, Bangladesh Forest Department, EcoHealthAlliance
+MT063665	MT063665	530	viral cRNA	2020-04-30	Human orthorubulavirus 2	Homo sapiens	PREDICT_GHBH408599	NA	Ghana	Ghana	GHA	2018	2018-01-01	Accra Veterinary Laboratory, Noguchi MemorialInstitute for Medical Research, University of Ghana,Military Hospital of the Ghana Armed Forces, Ghana HealthServices, UC Davis One Health Institute Laboratory,University of California, Davis
+MT063666	MT063666	530	viral cRNA	2020-04-30	Human orthorubulavirus 2	Homo sapiens	PREDICT_GHBH408599	NA	Ghana	Ghana	GHA	2018	2018-01-01	Accra Veterinary Laboratory, Noguchi MemorialInstitute for Medical Research, University of Ghana,Military Hospital of the Ghana Armed Forces, Ghana HealthServices, UC Davis One Health Institute Laboratory,University of California, Davis
+MT832141	MT832141	530	viral cRNA	2022-05-29	Human orthorubulavirus 2	Homo sapiens	PSH00001	NA	Malaysia	Malaysia	MYS	2018	2018-01-01	Queen Elizabeth Hospital 1 and Ecohealth Alliance,tested at Kota Kinabalu Public Health Laboratory, SabahState Health Department, Kota Kinabalu
+LQ903765	LQ903765	500	unassigned DNA	2018-10-11	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+PC037848	PC037848	500	unassigned DNA	2024-07-26	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MT063487	MT063487	496	viral cRNA	2020-04-30	Human orthorubulavirus 2	Homo sapiens	PREDICT_INAH0056	NA	India	India	IND	2017	2017-01-01	Sanjay Gandhi Postgraduate Institute of MedicalSciences, EcoHealth Alliance
+MT063486	MT063486	491	viral cRNA	2020-04-30	Human orthorubulavirus 2	Homo sapiens	PREDICT_INAH0048	NA	India	India	IND	2017	2017-01-01	Sanjay Gandhi Postgraduate Institute of MedicalSciences, EcoHealth Alliance
+MT063694	MT063694	487	viral cRNA	2020-04-30	Human orthorubulavirus 2	Homo sapiens	PREDICT_INAH0047	NA	India	India	IND	2017	2017-01-01	Sanjay Gandhi Postgraduate Institute of MedicalSciences, EcoHealth Alliance
+AF039930	AF039930	453	genomic RNA	2016-07-25	Human orthorubulavirus 2	Homo sapiens	Connecticut, 1977	NA	NA	NA	NA	NA	NA	NA
+AF039931	AF039931	453	genomic RNA	2016-07-25	Human orthorubulavirus 2	Homo sapiens	Delaware 1971	NA	NA	NA	NA	NA	NA	NA
+AF039932	AF039932	453	genomic RNA	2016-07-25	Human orthorubulavirus 2	Homo sapiens	Hawaii, 1968	NA	NA	NA	NA	NA	NA	NA
+AF039934	AF039934	453	genomic RNA	2016-07-25	Human orthorubulavirus 2	Homo sapiens	Kansas, 1982	NA	NA	NA	NA	NA	NA	NA
+AF039937	AF039937	453	genomic RNA	2016-07-25	Human orthorubulavirus 2	Homo sapiens	San Francisco, California, 1980	NA	NA	NA	NA	NA	NA	NA
+LC050829	LC050829	305	viral cRNA	2020-12-19	Human orthorubulavirus 2	Homo sapiens	HPIV2/20140925	NA	Japan:Hiroshima,Fukuyama	Japan	JPN	2014-09-25	2014-09-25	NA
+JQ268838	JQ268838	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLA9105	NA	Peru	Peru	PER	Jun-2009	2009-06-01	NA
+JQ268839	JQ268839	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLU6790	NA	Peru	Peru	PER	Jun-2007	2007-06-01	NA
+JQ268840	JQ268840	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLA5191	NA	Colombia	Colombia	COL	May-2008	2008-05-01	NA
+JQ268841	JQ268841	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLU8980	NA	Bolivia	Bolivia	BOL	Aug-2007	2007-08-01	NA
+JQ268842	JQ268842	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLA0072	NA	Peru	Peru	PER	Oct-2007	2007-10-01	NA
+JQ268843	JQ268843	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLE8361	NA	Peru	Peru	PER	Feb-2010	2010-02-01	NA
+JQ268844	JQ268844	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLA2326	NA	Argentina	Argentina	ARG	Apr-2008	2008-04-01	NA
+JQ268845	JQ268845	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLA1668	NA	Argentina	Argentina	ARG	Apr-2008	2008-04-01	NA
+JQ268846	JQ268846	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLA4014	NA	Peru	Peru	PER	Aug-2008	2008-08-01	NA
+JQ268847	JQ268847	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLA0061	NA	Peru	Peru	PER	Dec-2007	2007-12-01	NA
+JQ268848	JQ268848	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLA2053	NA	Bolivia	Bolivia	BOL	Dec-2007	2007-12-01	NA
+JQ268849	JQ268849	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLI2888	NA	Ecuador	Ecuador	ECU	May-2010	2010-05-01	NA
+JQ268850	JQ268850	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLI1203	NA	Peru	Peru	PER	May-2010	2010-05-01	NA
+JQ268851	JQ268851	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLE9660	NA	Argentina	Argentina	ARG	Mar-2010	2010-03-01	NA
+JQ268852	JQ268852	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLA2356	NA	Argentina	Argentina	ARG	May-2008	2008-05-01	NA
+JQ268853	JQ268853	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	CFI00226	NA	Peru	Peru	PER	Nov-2009	2009-11-01	NA
+JQ268854	JQ268854	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLE8253	NA	Peru	Peru	PER	Jan-2010	2010-01-01	NA
+JQ268855	JQ268855	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLI5219	NA	Peru	Peru	PER	Oct-2010	2010-10-01	NA
+JQ268856	JQ268856	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLE5586	NA	Nicaragua	Nicaragua	NIC	Aug-2009	2009-08-01	NA
+JQ268857	JQ268857	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLU6365	NA	Peru	Peru	PER	May-2007	2007-05-01	NA
+JQ268858	JQ268858	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLI5864	NA	Peru	Peru	PER	Nov-2010	2010-11-01	NA
+JQ268859	JQ268859	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLU6466	NA	Peru	Peru	PER	May-2007	2007-05-01	NA
+JQ268860	JQ268860	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLI4649	NA	Peru	Peru	PER	Oct-2010	2010-10-01	NA
+JQ268861	JQ268861	288	mRNA	2012-11-01	Human orthorubulavirus 2	Homo sapiens	FLI2684	NA	Colombia	Colombia	COL	Nov-2009	2009-11-01	NA
+KJ939327	KJ939327	228	viral cRNA	2014-08-18	Human orthorubulavirus 2	Homo sapiens	NA	NA	India	India	IND	23-Oct-2013	2013-10-23	NA
+GN115638	GN115638	210	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115639	GN115639	210	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115640	GN115640	210	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115637	GN115637	210	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584487	FW584487	210	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584488	FW584488	210	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584489	FW584489	210	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584490	FW584490	210	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115653	GN115653	208	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115654	GN115654	208	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115655	GN115655	208	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115656	GN115656	208	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584503	FW584503	208	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584504	FW584504	208	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584505	FW584505	208	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584506	FW584506	208	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115641	GN115641	180	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115642	GN115642	180	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115643	GN115643	180	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115644	GN115644	180	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115645	GN115645	180	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115646	GN115646	180	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115647	GN115647	180	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115648	GN115648	180	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115649	GN115649	180	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115650	GN115650	180	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115651	GN115651	180	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115652	GN115652	180	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115631	GN115631	180	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115630	GN115630	180	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115629	GN115629	180	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115628	GN115628	180	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115627	GN115627	180	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584477	FW584477	180	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584478	FW584478	180	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584479	FW584479	180	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584480	FW584480	180	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584481	FW584481	180	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584491	FW584491	180	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584492	FW584492	180	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584493	FW584493	180	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584494	FW584494	180	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584495	FW584495	180	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584496	FW584496	180	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584497	FW584497	180	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584498	FW584498	180	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584499	FW584499	180	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584500	FW584500	180	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584501	FW584501	180	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584502	FW584502	180	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115636	GN115636	137	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115635	GN115635	137	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115634	GN115634	137	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115633	GN115633	137	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115632	GN115632	137	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584482	FW584482	137	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584483	FW584483	137	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584484	FW584484	137	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584485	FW584485	137	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584486	FW584486	137	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN353678	GN353678	60	unassigned DNA	2009-05-12	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN353679	GN353679	60	unassigned DNA	2009-05-12	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN353680	GN353680	60	unassigned DNA	2009-05-12	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN353681	GN353681	60	unassigned DNA	2009-05-12	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN353682	GN353682	60	unassigned DNA	2009-05-12	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN353683	GN353683	60	unassigned DNA	2009-05-12	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN353684	GN353684	60	unassigned DNA	2009-05-12	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN353685	GN353685	60	unassigned DNA	2009-05-12	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN353686	GN353686	60	unassigned DNA	2009-05-12	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN353687	GN353687	60	unassigned DNA	2009-05-12	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN353688	GN353688	60	unassigned DNA	2009-05-12	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN353689	GN353689	60	unassigned DNA	2009-05-12	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN353690	GN353690	60	unassigned DNA	2009-05-12	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN353691	GN353691	60	unassigned DNA	2009-05-12	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+LQ465713	LQ465713	46	unassigned DNA	2016-10-06	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MB015872	MB015872	46	unassigned DNA	2019-07-31	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+LQ465716	LQ465716	42	unassigned DNA	2016-10-06	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MB015875	MB015875	42	unassigned DNA	2019-07-31	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DJ447465	DJ447465	36	unassigned DNA	2008-07-10	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DJ447466	DJ447466	28	unassigned DNA	2008-07-10	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115663	GN115663	28	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584513	FW584513	28	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+LQ465714	LQ465714	28	unassigned DNA	2016-10-06	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MB015873	MB015873	28	unassigned DNA	2019-07-31	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115660	GN115660	27	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115664	GN115664	27	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584510	FW584510	27	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584514	FW584514	27	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DJ447438	DJ447438	24	unassigned DNA	2008-07-10	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115659	GN115659	24	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115668	GN115668	24	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584509	FW584509	24	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584518	FW584518	24	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DJ447437	DJ447437	23	unassigned DNA	2008-07-10	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DJ447467	DJ447467	23	unassigned DNA	2008-07-10	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115666	GN115666	23	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115667	GN115667	23	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584516	FW584516	23	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584517	FW584517	23	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DJ447436	DJ447436	22	unassigned DNA	2008-07-10	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115571	GN115571	21	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115572	GN115572	21	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115574	GN115574	21	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115576	GN115576	21	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115577	GN115577	21	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115661	GN115661	21	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115662	GN115662	21	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584444	FW584444	21	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584445	FW584445	21	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584447	FW584447	21	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584449	FW584449	21	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584450	FW584450	21	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584511	FW584511	21	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584512	FW584512	21	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115573	GN115573	20	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115578	GN115578	20	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115581	GN115581	20	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115582	GN115582	20	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115658	GN115658	20	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115665	GN115665	20	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115673	GN115673	20	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115575	GN115575	20	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584446	FW584446	20	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584448	FW584448	20	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584451	FW584451	20	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584454	FW584454	20	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584455	FW584455	20	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584508	FW584508	20	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584515	FW584515	20	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584523	FW584523	20	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090600	DM090600	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090601	DM090601	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090602	DM090602	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090603	DM090603	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090604	DM090604	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090605	DM090605	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090606	DM090606	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090607	DM090607	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090608	DM090608	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090609	DM090609	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090610	DM090610	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090611	DM090611	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090612	DM090612	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090613	DM090613	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090614	DM090614	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090615	DM090615	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090616	DM090616	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090617	DM090617	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090618	DM090618	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090619	DM090619	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090620	DM090620	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090621	DM090621	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090622	DM090622	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090623	DM090623	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090624	DM090624	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090625	DM090625	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090626	DM090626	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090627	DM090627	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090628	DM090628	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090629	DM090629	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090630	DM090630	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090631	DM090631	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090632	DM090632	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090633	DM090633	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090634	DM090634	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090635	DM090635	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090636	DM090636	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090637	DM090637	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090638	DM090638	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090639	DM090639	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090640	DM090640	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090641	DM090641	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090642	DM090642	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090643	DM090643	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090644	DM090644	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090645	DM090645	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090646	DM090646	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090647	DM090647	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090648	DM090648	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090649	DM090649	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090650	DM090650	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090651	DM090651	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090652	DM090652	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090653	DM090653	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090654	DM090654	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090655	DM090655	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090656	DM090656	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090657	DM090657	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090658	DM090658	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090659	DM090659	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090660	DM090660	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+DM090661	DM090661	19	unassigned RNA	2009-04-21	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115579	GN115579	19	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115580	GN115580	19	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115681	GN115681	19	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115687	GN115687	19	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383923	HB383923	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383924	HB383924	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383925	HB383925	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383926	HB383926	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383927	HB383927	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383928	HB383928	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383929	HB383929	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383930	HB383930	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383931	HB383931	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383932	HB383932	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383933	HB383933	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383934	HB383934	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383935	HB383935	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383936	HB383936	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383937	HB383937	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383938	HB383938	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383939	HB383939	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383940	HB383940	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383941	HB383941	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383942	HB383942	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383943	HB383943	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383944	HB383944	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383945	HB383945	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383946	HB383946	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383947	HB383947	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383948	HB383948	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383949	HB383949	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383950	HB383950	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383951	HB383951	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383952	HB383952	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383953	HB383953	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383954	HB383954	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383955	HB383955	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383956	HB383956	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383957	HB383957	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383958	HB383958	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383959	HB383959	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383960	HB383960	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383961	HB383961	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383962	HB383962	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383963	HB383963	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383964	HB383964	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383965	HB383965	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383966	HB383966	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383967	HB383967	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383968	HB383968	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383969	HB383969	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383970	HB383970	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383971	HB383971	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383972	HB383972	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383973	HB383973	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383974	HB383974	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383975	HB383975	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383976	HB383976	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383977	HB383977	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383978	HB383978	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383979	HB383979	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383980	HB383980	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383981	HB383981	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383982	HB383982	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383983	HB383983	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+HB383984	HB383984	19	unassigned DNA	2009-06-09	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584452	FW584452	19	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584453	FW584453	19	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584531	FW584531	19	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584537	FW584537	19	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115657	GN115657	18	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584507	FW584507	18	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115670	GN115670	17	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115682	GN115682	17	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115684	GN115684	17	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584520	FW584520	17	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584532	FW584532	17	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584534	FW584534	17	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+LQ465663	LQ465663	17	unassigned DNA	2016-10-06	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MB015849	MB015849	17	unassigned DNA	2019-07-31	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115669	GN115669	16	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115672	GN115672	16	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115686	GN115686	16	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584519	FW584519	16	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584522	FW584522	16	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584536	FW584536	16	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115671	GN115671	15	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115675	GN115675	15	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115676	GN115676	15	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115677	GN115677	15	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115678	GN115678	15	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115680	GN115680	15	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584521	FW584521	15	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584525	FW584525	15	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584526	FW584526	15	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584527	FW584527	15	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584528	FW584528	15	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584530	FW584530	15	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+LQ465666	LQ465666	15	unassigned DNA	2016-10-06	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MB015852	MB015852	15	unassigned DNA	2019-07-31	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115674	GN115674	14	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115683	GN115683	14	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115685	GN115685	14	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584524	FW584524	14	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584533	FW584533	14	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584535	FW584535	14	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+LQ465661	LQ465661	14	unassigned DNA	2016-10-06	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+LQ465662	LQ465662	14	unassigned DNA	2016-10-06	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+LQ465664	LQ465664	14	unassigned DNA	2016-10-06	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+LQ465668	LQ465668	14	unassigned DNA	2016-10-06	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+LQ465670	LQ465670	14	unassigned DNA	2016-10-06	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MB015847	MB015847	14	unassigned DNA	2019-07-31	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MB015848	MB015848	14	unassigned DNA	2019-07-31	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MB015850	MB015850	14	unassigned DNA	2019-07-31	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MB015854	MB015854	14	unassigned DNA	2019-07-31	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MB015856	MB015856	14	unassigned DNA	2019-07-31	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+GN115679	GN115679	13	unassigned DNA	2009-04-17	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FW584529	FW584529	13	unassigned DNA	2011-04-01	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+LQ465672	LQ465672	13	unassigned DNA	2016-10-06	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MB015858	MB015858	13	unassigned DNA	2019-07-31	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+LQ465665	LQ465665	12	unassigned DNA	2016-10-06	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+LQ465667	LQ465667	12	unassigned DNA	2016-10-06	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+LQ465669	LQ465669	12	unassigned DNA	2016-10-06	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MB015851	MB015851	12	unassigned DNA	2019-07-31	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MB015853	MB015853	12	unassigned DNA	2019-07-31	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MB015855	MB015855	12	unassigned DNA	2019-07-31	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+LQ465671	LQ465671	8	unassigned DNA	2016-10-06	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+LQ465715	LQ465715	8	unassigned DNA	2016-10-06	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MB015857	MB015857	8	unassigned DNA	2019-07-31	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MB015874	MB015874	8	unassigned DNA	2019-07-31	Human orthorubulavirus 2	NA	NA	NA	NA	NA	NA	NA	NA	NA
